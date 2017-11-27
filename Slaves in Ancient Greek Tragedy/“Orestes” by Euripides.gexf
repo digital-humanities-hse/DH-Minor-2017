@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="weighted degree" title="Взвешенная мощность" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Electra" label="Electra">
+        <attvalues>
+          <attvalue for="weighted degree" value="14.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-15.582612" y="-53.600014"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Helen" label="Helen">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="39.834743" y="-96.15758"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Chorus" label="Chorus">
+        <attvalues>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.307693"></viz:size>
+        <viz:position x="96.62645" y="-18.734608"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Orestes" label="Orestes">
+        <attvalues>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+        </attvalues>
+        <viz:size value="24.23077"></viz:size>
+        <viz:position x="-40.56965" y="6.483074"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Menelaus" label="Menelaus">
+        <attvalues>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+        </attvalues>
+        <viz:size value="16.538462"></viz:size>
+        <viz:position x="-87.66535" y="65.28749"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Tyndareus" label="Tyndareus">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.923077"></viz:size>
+        <viz:position x="100.03847" y="71.71288"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Pylades" label="Pylades">
+        <attvalues>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.846154"></viz:size>
+        <viz:position x="-115.304756" y="-24.466875"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Messenger" label="Messenger">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-113.25837" y="-84.12113"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Hermione" label="Hermione">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.923077"></viz:size>
+        <viz:position x="132.49501" y="-68.355194"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Phrygian Eunuch (Slave)" label="Phrygian Eunuch (Slave)">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.923077"></viz:size>
+        <viz:position x="199.30403" y="30.705082"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Slaves" label="Slaves">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-47.79463" y="93.17869"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+      <node id="Apollo" label="Apollo">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.923077"></viz:size>
+        <viz:position x="-168.0922" y="18.859146"></viz:position>
+        <viz:color r="255" g="20" b="42"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Electra" target="Helen"></edge>
+      <edge id="1" source="Chorus" target="Electra" weight="7.0"></edge>
+      <edge id="2" source="Electra" target="Orestes" weight="3.0"></edge>
+      <edge id="3" source="Menelaus" target="Orestes" weight="3.0"></edge>
+      <edge id="4" source="Tyndareus" target="Menelaus"></edge>
+      <edge id="5" source="Tyndareus" target="Orestes"></edge>
+      <edge id="6" source="Chorus" target="Menelaus"></edge>
+      <edge id="7" source="Pylades" target="Orestes" weight="2.0"></edge>
+      <edge id="8" source="Messenger" target="Electra"></edge>
+      <edge id="9" source="Electra" target="Pylades"></edge>
+      <edge id="10" source="Hermione" target="Electra"></edge>
+      <edge id="11" source="Chorus" target="Hermione"></edge>
+      <edge id="12" source="Phrygian Eunuch (Slave)" target="Chorus"></edge>
+      <edge id="13" source="Phrygian Eunuch (Slave)" target="Orestes"></edge>
+      <edge id="14" source="Menelaus" target="Slaves"></edge>
+      <edge id="15" source="Apollo" target="Menelaus"></edge>
+      <edge id="16" source="Apollo" target="Orestes"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="weighted degree" title="Взвешенная мощность" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Choragus" label="Choragus">
+        <attvalues>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+        </attvalues>
+        <viz:size value="24.444445"></viz:size>
+        <viz:position x="90.55409" y="24.14816"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Clytemnestra" label="Clytemnestra">
+        <attvalues>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-45.573196" y="-10.485886"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Messenger" label="Messenger">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="80.99745" y="82.348076"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Chorus" label="Chorus">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7777777"></viz:size>
+        <viz:position x="-112.28895" y="23.041449"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Female Slaves" label="Female Slaves">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-69.594864" y="-75.76179"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Agamemnon" label="Agamemnon">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7777777"></viz:size>
+        <viz:position x="25.53345" y="-45.28706"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Kassandra" label="Kassandra">
+        <attvalues>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.333334"></viz:size>
+        <viz:position x="-76.67817" y="51.596973"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Aegisthus" label="Aegisthus">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7777777"></viz:size>
+        <viz:position x="134.2529" y="-11.576906"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+      <node id="Slave Guard" label="Slave Guard">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-50.65454" y="94.687965"></viz:position>
+        <viz:color r="189" g="255" b="207"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Choragus" target="Clytemnestra" weight="4.0"></edge>
+      <edge id="1" source="Choragus" target="Messenger"></edge>
+      <edge id="2" source="Clytemnestra" target="Chorus"></edge>
+      <edge id="3" source="Clytemnestra" target="Female Slaves"></edge>
+      <edge id="4" source="Agamemnon" target="Clytemnestra" weight="2.0"></edge>
+      <edge id="5" source="Clytemnestra" target="Kassandra"></edge>
+      <edge id="6" source="Choragus" target="Kassandra" weight="2.0"></edge>
+      <edge id="7" source="Chorus" target="Kassandra"></edge>
+      <edge id="8" source="Clytemnestra" target="Aegisthus"></edge>
+      <edge id="9" source="Choragus" target="Aegisthus"></edge>
+      <edge id="10" source="Slave Guard" target="Slave Guard"></edge>
+    </edges>
+  </graph>
+</gexf>

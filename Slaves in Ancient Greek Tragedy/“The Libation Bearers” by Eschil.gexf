@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="weighted degree" title="Взвешенная мощность" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Electra" label="Electra">
+        <attvalues>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="14.090909"></viz:size>
+        <viz:position x="88.19596" y="-32.618732"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Slaves choephoroi" label="Slaves choephoroi">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="100.35586" y="-103.45804"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Female Slave Choragus" label="Female Slave Choragus">
+        <attvalues>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="157.76564" y="26.803555"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Orestes" label="Orestes">
+        <attvalues>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-27.788994" y="-4.231932"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Gatekeeper" label="Gatekeeper">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.272727"></viz:size>
+        <viz:position x="-127.71993" y="59.641953"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Clytemnestra" label="Clytemnestra">
+        <attvalues>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.545454"></viz:size>
+        <viz:position x="-197.79927" y="-34.928802"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Cilissa" label="Cilissa">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="230.41673" y="58.220978"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Aegisthus" label="Aegisthus">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="70.250404" y="64.7813"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Slave" label="Slave">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-174.43042" y="-66.82429"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Pylades" label="Pylades">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-26.113552" y="-68.7427"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+      <node id="Chorus" label="Chorus">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-43.468548" y="96.2535"></viz:position>
+        <viz:color r="0" g="190" b="250"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Electra" target="Slaves choephoroi"></edge>
+      <edge id="1" source="Electra" target="Female Slave Choragus" weight="2.0"></edge>
+      <edge id="2" source="Orestes" target="Electra" weight="2.0"></edge>
+      <edge id="3" source="Female Slave Choragus" target="Orestes" weight="4.0"></edge>
+      <edge id="4" source="Orestes" target="Gatekeeper"></edge>
+      <edge id="5" source="Gatekeeper" target="Orestes"></edge>
+      <edge id="6" source="Clytemnestra" target="Orestes"></edge>
+      <edge id="7" source="Female Slave Choragus" target="Cilissa"></edge>
+      <edge id="8" source="Aegisthus" target="Female Slave Choragus"></edge>
+      <edge id="9" source="Slave" target="Clytemnestra"></edge>
+      <edge id="10" source="Orestes" target="Clytemnestra"></edge>
+      <edge id="11" source="Pylades" target="Orestes"></edge>
+      <edge id="12" source="Orestes" target="Chorus"></edge>
+    </edges>
+  </graph>
+</gexf>

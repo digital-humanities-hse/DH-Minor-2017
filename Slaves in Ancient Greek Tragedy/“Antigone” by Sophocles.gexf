@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="weighted degree" title="Взвешенная мощность" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Antigone" label="Antigone">
+        <attvalues>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.3529415"></viz:size>
+        <viz:position x="-105.885284" y="-13.914545"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Ismene" label="Ismene">
+        <attvalues>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.9411764"></viz:size>
+        <viz:position x="-84.33659" y="-38.13525"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Creon" label="Creon">
+        <attvalues>
+          <attvalue for="weighted degree" value="18.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-12.487169" y="8.082203"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Chorus" label="Chorus">
+        <attvalues>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.647058"></viz:size>
+        <viz:position x="43.86303" y="-36.203632"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Sentry " label="Sentry ">
+        <attvalues>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.9411764"></viz:size>
+        <viz:position x="91.16517" y="14.669205"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Haimon" label="Haimon">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="36.00505" y="78.82481"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Slaves" label="Slaves">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-50.560375" y="75.187325"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Teiresias" label="Teiresias">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-118.43712" y="19.791151"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Messenger" label="Messenger">
+        <attvalues>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.411764"></viz:size>
+        <viz:position x="24.20679" y="-83.675735"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+      <node id="Eurydice" label="Eurydice">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.470588"></viz:size>
+        <viz:position x="85.487816" y="-82.7454"></viz:position>
+        <viz:color r="243" g="255" b="20"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Antigone" target="Ismene" weight="2.0"></edge>
+      <edge id="1" source="Creon" target="Chorus" weight="8.0"></edge>
+      <edge id="2" source="Sentry " target="Creon" weight="2.0"></edge>
+      <edge id="3" source="Sentry " target="Chorus"></edge>
+      <edge id="4" source="Creon" target="Antigone" weight="3.0"></edge>
+      <edge id="5" source="Creon" target="Ismene"></edge>
+      <edge id="6" source="Haimon" target="Creon"></edge>
+      <edge id="7" source="Antigone" target="Chorus"></edge>
+      <edge id="8" source="Creon" target="Slaves"></edge>
+      <edge id="9" source="Teiresias" target="Creon"></edge>
+      <edge id="10" source="Messenger" target="Chorus" weight="2.0"></edge>
+      <edge id="11" source="Eurydice" target="Chorus"></edge>
+      <edge id="12" source="Messenger" target="Eurydice"></edge>
+      <edge id="13" source="Creon" target="Messenger"></edge>
+    </edges>
+  </graph>
+</gexf>

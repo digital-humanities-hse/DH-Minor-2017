@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="weighted degree" title="Взвешенная мощность" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Oedipus" label="Oedipus">
+        <attvalues>
+          <attvalue for="weighted degree" value="17.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="9.73183" y="4.8635335"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Priest" label="Priest">
+        <attvalues>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.5625"></viz:size>
+        <viz:position x="140.0827" y="63.294777"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Creon" label="Creon">
+        <attvalues>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8125"></viz:size>
+        <viz:position x="87.24572" y="35.538227"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Chorus" label="Chorus">
+        <attvalues>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="19.0625"></viz:size>
+        <viz:position x="85.499985" y="-22.055347"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Teiresias" label="Teiresias">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-139.91544" y="24.20568"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Jocasta" label="Jocasta">
+        <attvalues>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.8125"></viz:size>
+        <viz:position x="-82.570694" y="-25.741266"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Messenger" label="Messenger">
+        <attvalues>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.6875"></viz:size>
+        <viz:position x="-38.38012" y="-65.869675"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Slave" label="Slave">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-188.46284" y="-53.14616"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Guard" label="Guard">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-54.52495" y="57.28523"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Servant" label="Servant">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="29.755743" y="88.95788"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+      <node id="Servant 2" label="Servant 2">
+        <attvalues>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="91.627525" y="-97.33312"></viz:position>
+        <viz:color r="141" g="41" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Oedipus" target="Priest"></edge>
+      <edge id="1" source="Creon" target="Oedipus" weight="3.0"></edge>
+      <edge id="2" source="Priest" target="Creon"></edge>
+      <edge id="3" source="Chorus" target="Oedipus" weight="6.0"></edge>
+      <edge id="4" source="Teiresias" target="Oedipus"></edge>
+      <edge id="5" source="Chorus" target="Creon"></edge>
+      <edge id="6" source="Jocasta" target="Creon"></edge>
+      <edge id="7" source="Chorus" target="Jocasta"></edge>
+      <edge id="8" source="Oedipus" target="Jocasta" weight="2.0"></edge>
+      <edge id="9" source="Messenger" target="Chorus"></edge>
+      <edge id="10" source="Messenger" target="Jocasta"></edge>
+      <edge id="11" source="Jocasta" target="Slave"></edge>
+      <edge id="12" source="Messenger" target="Oedipus" weight="2.0"></edge>
+      <edge id="13" source="Oedipus" target="Guard"></edge>
+      <edge id="14" source="Servant" target="Oedipus"></edge>
+      <edge id="15" source="Servant 2" target="Chorus"></edge>
+    </edges>
+  </graph>
+</gexf>
