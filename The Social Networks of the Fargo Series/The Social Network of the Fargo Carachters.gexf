@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-13">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="АдвокатДженниХесс" label="АдвокатДженниХесс">
+        <viz:size value="18.846153"></viz:size>
+        <viz:position x="-699.8956" y="27.715557"></viz:position>
+        <viz:color r="235" g="143" b="76"></viz:color>
+      </node>
+      <node id="ВёрнТурман" label="ВёрнТурман">
+        <viz:size value="21.410257"></viz:size>
+        <viz:position x="-373.42767" y="-87.16416"></viz:position>
+        <viz:color r="238" g="173" b="127"></viz:color>
+      </node>
+      <node id="ДженниХесс" label="ДженниХесс">
+        <viz:size value="19.487179"></viz:size>
+        <viz:position x="-696.57904" y="-110.01165"></viz:position>
+        <viz:color r="236" g="150" b="89"></viz:color>
+      </node>
+      <node id="ЛорнМалво" label="ЛорнМалво">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-459.7886" y="764.6122"></viz:position>
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </node>
+      <node id="МиккиХесс" label="МиккиХесс">
+        <viz:size value="19.487179"></viz:size>
+        <viz:position x="-574.26855" y="-143.73401"></viz:position>
+        <viz:color r="236" g="150" b="89"></viz:color>
+      </node>
+      <node id="МоХесс" label="МоХесс">
+        <viz:size value="19.487179"></viz:size>
+        <viz:position x="-567.3125" y="-2.8205202"></viz:position>
+        <viz:color r="236" g="150" b="89"></viz:color>
+      </node>
+      <node id="Молли" label="Молли">
+        <viz:size value="35.51282"></viz:size>
+        <viz:position x="6.513271E-4" y="-5.2572327E-4"></viz:position>
+        <viz:color r="148" g="127" b="186"></viz:color>
+      </node>
+      <node id="АйдаТурман" label="АйдаТурман">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="-174.81186" y="-122.77285"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="БиллОсвальт" label="БиллОсвальт">
+        <viz:size value="23.333334"></viz:size>
+        <viz:position x="-107.043015" y="-334.37164"></viz:position>
+        <viz:color r="241" g="197" b="165"></viz:color>
+      </node>
+      <node id="Бармен" label="Бармен">
+        <viz:size value="18.205128"></viz:size>
+        <viz:position x="1518.7285" y="-105.00169"></viz:position>
+        <viz:color r="234" g="135" b="64"></viz:color>
+      </node>
+      <node id="Лени" label="Лени">
+        <viz:size value="18.846153"></viz:size>
+        <viz:position x="1542.2048" y="-215.57854"></viz:position>
+        <viz:color r="235" g="143" b="76"></viz:color>
+      </node>
+      <node id="Стриптизерша" label="Стриптизерша">
+        <viz:size value="18.205128"></viz:size>
+        <viz:position x="1619.7731" y="-72.81703"></viz:position>
+        <viz:color r="234" g="135" b="64"></viz:color>
+      </node>
+      <node id="Управляющий" label="Управляющий">
+        <viz:size value="18.205128"></viz:size>
+        <viz:position x="1651.3546" y="-169.6533"></viz:position>
+        <viz:color r="234" g="135" b="64"></viz:color>
+      </node>
+      <node id="мистерНамберс" label="мистерНамберс">
+        <viz:size value="22.692308"></viz:size>
+        <viz:position x="1367.5756" y="-182.291"></viz:position>
+        <viz:color r="240" g="189" b="152"></viz:color>
+      </node>
+      <node id="мистерРенч" label="мистерРенч">
+        <viz:size value="22.692308"></viz:size>
+        <viz:position x="1184.7795" y="-170.49173"></viz:position>
+        <viz:color r="240" g="189" b="152"></viz:color>
+      </node>
+      <node id="БартКантон" label="БартКантон">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="2.6271646" y="760.01697"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="ДжеммаСтэйлон" label="ДжеммаСтэйлон">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="-99.46251" y="791.5667"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="ЛестерНайгард" label="ЛестерНайгард">
+        <viz:size value="31.025642"></viz:size>
+        <viz:position x="205.48625" y="-477.9193"></viz:position>
+        <viz:color r="203" g="194" b="220"></viz:color>
+      </node>
+      <node id="ЛуизаКантон" label="ЛуизаКантон">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="1.2462656" y="847.8196"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="БилОсвальт" label="БилОсвальт">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="-169.07439" y="-726.334"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="агентБадж" label="агентБадж">
+        <viz:size value="19.487179"></viz:size>
+        <viz:position x="-264.47183" y="-626.7136"></viz:position>
+        <viz:color r="236" g="150" b="89"></viz:color>
+      </node>
+      <node id="агентПеппер" label="агентПеппер">
+        <viz:size value="19.487179"></viz:size>
+        <viz:position x="-317.18442" y="-712.3613"></viz:position>
+        <viz:color r="236" g="150" b="89"></viz:color>
+      </node>
+      <node id="Надсен" label="Надсен">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-57.080666" y="-254.23093"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="КиттиНайгард" label="КиттиНайгард">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="151.08826" y="-997.46313"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="ЛейтенантСмит" label="ЛейтенантСмит">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="200.76347" y="375.80585"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="Лу" label="Лу">
+        <viz:size value="20.76923"></viz:size>
+        <viz:position x="297.83823" y="105.27638"></viz:position>
+        <viz:color r="237" g="166" b="114"></viz:color>
+      </node>
+      <node id="ПолицейскаяГруппа" label="ПолицейскаяГруппа">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-224.49808" y="-300.5892"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="ЧесНайгард" label="ЧесНайгард">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="225.59761" y="-950.5138"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="БоМунк" label="БоМунк">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="398.70953" y="-642.5014"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="Врач" label="Врач">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="42.1668" y="168.21416"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="ГасГримли" label="ГасГримли">
+        <viz:size value="20.128204"></viz:size>
+        <viz:position x="283.95724" y="302.4753"></viz:position>
+        <viz:color r="236" g="158" b="101"></viz:color>
+      </node>
+      <node id="ГретаГримли" label="ГретаГримли">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="328.432" y="211.68008"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="ЖенщинаВокне" label="ЖенщинаВокне">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="427.94043" y="324.5024"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="Продавец" label="Продавец">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="382.10217" y="-111.3765"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="Сосед" label="Сосед">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="187.22688" y="618.0044"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="парень" label="парень">
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1249.4729" y="-3645.1294"></viz:position>
+        <viz:color r="230" g="97" b="1"></viz:color>
+      </node>
+      <node id="ПёрлНайгард" label="ПёрлНайгард">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="233.9638" y="-1044.3944"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="ДмитрийМайлос" label="ДмитрийМайлос">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="-1124.0544" y="1185.8234"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="СтавросМайлос" label="СтавросМайлос">
+        <viz:size value="18.205128"></viz:size>
+        <viz:position x="-1073.4713" y="1294.6193"></viz:position>
+        <viz:color r="234" g="135" b="64"></viz:color>
+      </node>
+      <node id="Мясник" label="Мясник">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="-1180.7727" y="1252.0336"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="Семенько" label="Семенько">
+        <viz:size value="18.205128"></viz:size>
+        <viz:position x="-1061.1904" y="1228.1849"></viz:position>
+        <viz:color r="234" g="135" b="64"></viz:color>
+      </node>
+      <node id="Какой-тоПарень" label="Какой-тоПарень">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="1356.9517" y="-350.80417"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="МаксГолд" label="МаксГолд">
+        <viz:size value="17.564102"></viz:size>
+        <viz:position x="1426.8085" y="-297.26883"></viz:position>
+        <viz:color r="233" g="127" b="51"></viz:color>
+      </node>
+      <node id="ЛиндаПарк" label="ЛиндаПарк">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="-122.887955" y="234.30077"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="МедсестраФабер" label="МедсестраФабер">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="302.96512" y="-689.03455"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="Полицейский" label="Полицейский">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="1088.9669" y="-319.47714"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="Фармацевт" label="Фармацевт">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="301.52747" y="-311.54947"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="НовыйЖилец" label="НовыйЖилец">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-726.83875" y="725.90594"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="ПродавецНаркотиков" label="ПродавецНаркотиков">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-595.6302" y="960.6629"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="Проститутка" label="Проститутка">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-541.0136" y="1342.1339"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="РаботникПочты" label="РаботникПочты">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-458.3279" y="1024.5605"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="РэнделРеалти" label="РэнделРеалти">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-787.16895" y="823.27423"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="СекретарьФБР" label="СекретарьФБР">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-559.19476" y="1054.9692"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="СемХесс" label="СемХесс">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-565.09424" y="1288.3412"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="Синди" label="Семенко">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-196.6478" y="470.88583"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="Уборщик" label="Уборщик">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="-441.66885" y="411.2926"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="УправляющаяМотеля" label="УправляющаяМотеля">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="-367.53412" y="414.1531"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="Фил" label="Фил">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-684.4818" y="856.90533"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="автодилер" label="автодилер">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-354.12436" y="1022.4973"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="медсестра" label="медсестра">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-275.32883" y="1309.4619"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="пациент" label="пациент">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-285.27267" y="1367.5896"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="полицейский" label="полицейский">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-702.0155" y="966.1392"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="Подруга" label="Подруга">
+        <viz:size value="15.641026"></viz:size>
+        <viz:position x="-136.23637" y="96.50068"></viz:position>
+        <viz:color r="230" g="104" b="13"></viz:color>
+      </node>
+      <node id="Помощник" label="Помощник">
+        <viz:size value="16.923077"></viz:size>
+        <viz:position x="163.53749" y="-66.537704"></viz:position>
+        <viz:color r="232" g="120" b="38"></viz:color>
+      </node>
+      <node id="РаботникиОфисаФила" label="РаботникиОфисаФила">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="223.1485" y="-94.30724"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="Сантехник" label="Сантехник">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-1121.462" y="1379.7233"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+      <node id="босс" label="босс">
+        <viz:size value="16.282051"></viz:size>
+        <viz:position x="-389.22433" y="-813.37823"></viz:position>
+        <viz:color r="231" g="112" b="26"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="4" source="АдвокатДженниХесс" target="ВёрнТурман">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="7" source="АдвокатДженниХесс" target="ДженниХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="10" source="АдвокатДженниХесс" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="13" source="АдвокатДженниХесс" target="МиккиХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="16" source="АдвокатДженниХесс" target="МоХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="19" source="АдвокатДженниХесс" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="22" source="АйдаТурман" target="Молли" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="25" source="АйдаТурман" target="БиллОсвальт">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="28" source="АйдаТурман" target="ВёрнТурман">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="34" source="Бармен" target="Лени">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="37" source="Бармен" target="Стриптизерша">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="40" source="Бармен" target="Управляющий">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="43" source="Бармен" target="мистерНамберс" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="49" source="Бармен" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="52" source="БартКантон" target="ДжеммаСтэйлон">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="55" source="БартКантон" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="58" source="БартКантон" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="61" source="БартКантон" target="ЛуизаКантон">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="64" source="БилОсвальт" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="67" source="БилОсвальт" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="70" source="БилОсвальт" target="агентБадж">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="73" source="БилОсвальт" target="агентПеппер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="82" source="БиллОсвальт" target="Молли" weight="3.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="85" source="БиллОсвальт" target="Надсен" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="88" source="БиллОсвальт" target="ВёрнТурман">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="91" source="БиллОсвальт" target="КиттиНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="94" source="БиллОсвальт" target="ЛейтенантСмит">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="97" source="БиллОсвальт" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="100" source="БиллОсвальт" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="103" source="БиллОсвальт" target="Лу">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="115" source="БиллОсвальт" target="ПолицейскаяГруппа">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="118" source="БиллОсвальт" target="ЧесНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="121" source="БиллОсвальт" target="агентБадж">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="124" source="БиллОсвальт" target="агентПеппер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="127" source="БоМунк" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="139" source="Врач" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="142" source="ВёрнТурман" target="ДженниХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="145" source="ВёрнТурман" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="148" source="ВёрнТурман" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="151" source="ВёрнТурман" target="Лу">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="154" source="ВёрнТурман" target="МиккиХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="157" source="ВёрнТурман" target="МоХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="160" source="ВёрнТурман" target="Молли" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="166" source="ГасГримли" target="ГретаГримли" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="175" source="ГасГримли" target="ЖенщинаВокне">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="178" source="ГасГримли" target="ЛейтенантСмит" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="184" source="ГасГримли" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="187" source="ГасГримли" target="Лу" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="193" source="ГасГримли" target="Молли" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="199" source="ГасГримли" target="Продавец">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="204" source="ГасГримли" target="Сосед">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="228" source="ГретаГримли" target="ЖенщинаВокне">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="231" source="ГретаГримли" target="Лу" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="237" source="ГретаГримли" target="Молли" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="243" source="ДжеммаСтэйлон" target="ЛорнМалво" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="246" source="ДжеммаСтэйлон" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="252" source="ДжеммаСтэйлон" target="ЛуизаКантон">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="261" source="ДженниХесс" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="264" source="ДженниХесс" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="267" source="ДженниХесс" target="МиккиХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="270" source="ДженниХесс" target="МоХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="273" source="ДженниХесс" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="285" source="ДмитрийМайлос" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="288" source="ДмитрийМайлос" target="Мясник">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="291" source="ДмитрийМайлос" target="Семенько" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="297" source="ДмитрийМайлос" target="СтавросМайлос">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="312" source="Какой-тоПарень" target="МаксГолд">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="315" source="Какой-тоПарень" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="318" source="Какой-тоПарень" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="321" source="КиттиНайгард" target="ЛестерНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="324" source="КиттиНайгард" target="ПёрлНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="327" source="КиттиНайгард" target="ЧесНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="330" source="ЛейтенантСмит" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="333" source="Лени" target="МаксГолд">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="336" source="Лени" target="Стриптизерша">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="339" source="Лени" target="Управляющий">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="342" source="Лени" target="мистерНамберс" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="348" source="Лени" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="351" source="ЛестерНайгард" target="ЛиндаПарк">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="354" source="ЛестерНайгард" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="357" source="ЛестерНайгард" target="Лу">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="360" source="ЛестерНайгард" target="ЛуизаКантон">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="363" source="ЛестерНайгард" target="МедсестраФабер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="366" source="ЛестерНайгард" target="МиккиХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="369" source="ЛестерНайгард" target="МоХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="372" source="ЛестерНайгард" target="Молли" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="378" source="ЛестерНайгард" target="Полицейский">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="381" source="ЛестерНайгард" target="Продавец">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="384" source="ЛестерНайгард" target="ПёрлНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="393" source="ЛестерНайгард" target="Фармацевт">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="396" source="ЛестерНайгард" target="ЧесНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="399" source="ЛестерНайгард" target="агентБадж">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="402" source="ЛестерНайгард" target="агентПеппер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="405" source="ЛестерНайгард" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="408" source="ЛестерНайгард" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="411" source="ЛиндаПарк" target="ЛорнМалво">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="414" source="ЛиндаПарк" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="417" source="ЛорнМалво" target="Лу">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="420" source="ЛорнМалво" target="ЛуизаКантон">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="423" source="ЛорнМалво" target="МиккиХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="426" source="ЛорнМалво" target="МоХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="429" source="ЛорнМалво" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="432" source="ЛорнМалво" target="Мясник">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="435" source="ЛорнМалво" target="НовыйЖилец">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="438" source="ЛорнМалво" target="ПродавецНаркотиков">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="441" source="ЛорнМалво" target="Проститутка">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="444" source="ЛорнМалво" target="РаботникПочты">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="447" source="ЛорнМалво" target="РэнделРеалти">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="450" source="ЛорнМалво" target="СекретарьФБР">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="453" source="ЛорнМалво" target="СемХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="459" source="ЛорнМалво" target="Семенько" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="465" source="ЛорнМалво" target="Синди">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="468" source="ЛорнМалво" target="Сосед">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="471" source="ЛорнМалво" target="СтавросМайлос" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="480" source="ЛорнМалво" target="Уборщик">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="483" source="ЛорнМалво" target="УправляющаяМотеля">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="486" source="ЛорнМалво" target="Фил">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="492" source="ЛорнМалво" target="автодилер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="495" source="ЛорнМалво" target="агентБадж">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="498" source="ЛорнМалво" target="агентПеппер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="501" source="ЛорнМалво" target="медсестра">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="504" source="ЛорнМалво" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="507" source="ЛорнМалво" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="510" source="ЛорнМалво" target="пациент">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="513" source="ЛорнМалво" target="полицейский">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="516" source="Лу" target="Молли" weight="3.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="525" source="Лу" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="528" source="Лу" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="531" source="МаксГолд" target="мистерНамберс" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="537" source="МаксГолд" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="540" source="МиккиХесс" target="МоХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="543" source="МиккиХесс" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="549" source="МоХесс" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="555" source="Молли" target="Продавец">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="560" source="Молли" target="Синди">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="563" source="Молли" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="566" source="Молли" target="мистерРенч" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="569" source="Молли" target="Надсен">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="572" source="Молли" target="Подруга">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="575" source="Молли" target="ПолицейскаяГруппа">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="578" source="Молли" target="Помощник">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="579" source="Молли" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="582" source="Молли" target="РаботникиОфисаФила">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="585" source="Молли" target="Уборщик">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="588" source="Молли" target="УправляющаяМотеля">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="591" source="Молли" target="Фармацевт">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="594" source="Молли" target="агентБадж">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="597" source="Молли" target="агентПеппер">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="603" source="Мясник" target="Семенько">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="606" source="Мясник" target="СтавросМайлос">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="609" source="Полицейский" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="612" source="Полицейский" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="614" source="Помощник" target="Молли">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="616" source="Помощник" target="РаботникиОфисаФила">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="619" source="Проститутка" target="СемХесс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="622" source="ПёрлНайгард" target="ЧесНайгард">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="625" source="Сантехник" target="Семенько">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="628" source="Сантехник" target="СтавросМайлос">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="634" source="Семенько" target="СтавросМайлос" weight="3.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="643" source="Стриптизерша" target="Управляющий">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="646" source="Стриптизерша" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="649" source="Стриптизерша" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="652" source="Уборщик" target="УправляющаяМотеля">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="655" source="Управляющий" target="мистерНамберс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="658" source="Управляющий" target="мистерРенч">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="661" source="агентБадж" target="агентПеппер" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="667" source="агентБадж" target="босс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="670" source="агентПеппер" target="босс">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="673" source="медсестра" target="пациент">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+      <edge id="676" source="мистерНамберс" target="мистерРенч" weight="2.0">
+        <viz:color r="94" g="60" b="153"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
