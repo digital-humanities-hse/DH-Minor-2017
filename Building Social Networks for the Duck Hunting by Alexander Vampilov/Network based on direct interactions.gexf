@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-12">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="triangles" title="Number of triangles" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Суммарная мощность" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Валерия" label="Валерия">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="337.64743" y="114.391594"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Вера" label="Вера">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="-242.77286" y="335.82825"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Галина" label="Галина">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="45.419178" y="240.5416"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Зилов" label="Зилов">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="-28.691507" y="-17.393936"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="Ирина" label="Ирина">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="-4.5601873" y="-358.71622"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Кузаков" label="Кузаков">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="-392.17532" y="54.552444"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Кушак" label="Кушак">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="-248.48627" y="-218.05792"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Мальчик" label="Мальчик">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="907.14996" y="-350.55945"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="Официант" label="Официант">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="227.02617" y="578.2477"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Саяпин" label="Саяпин">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="36"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="48.0"></viz:size>
+        <viz:position x="210.94632" y="-177.64627"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Валерия" target="Вера" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="1" source="Валерия" target="Галина" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="2" source="Валерия" target="Зилов" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="3" source="Валерия" target="Ирина" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="4" source="Валерия" target="Кузаков" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="5" source="Валерия" target="Кушак" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="6" source="Валерия" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="7" source="Валерия" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="8" source="Валерия" target="Саяпин" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="9" source="Вера" target="Галина" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="10" source="Вера" target="Зилов" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="11" source="Вера" target="Ирина" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="12" source="Вера" target="Кузаков" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="13" source="Вера" target="Кушак" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="14" source="Вера" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="15" source="Вера" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="16" source="Вера" target="Саяпин" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="17" source="Галина" target="Зилов" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="18" source="Галина" target="Ирина" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="19" source="Галина" target="Кузаков" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="20" source="Галина" target="Кушак" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="21" source="Галина" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="22" source="Галина" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="23" source="Галина" target="Саяпин" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="24" source="Зилов" target="Ирина" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="25" source="Зилов" target="Кузаков" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="26" source="Зилов" target="Кушак" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="27" source="Зилов" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="28" source="Зилов" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="29" source="Зилов" target="Саяпин" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="30" source="Ирина" target="Кузаков" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="31" source="Ирина" target="Кушак" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="32" source="Ирина" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="33" source="Ирина" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="34" source="Ирина" target="Саяпин" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="35" source="Кузаков" target="Кушак" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="36" source="Кузаков" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="37" source="Кузаков" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="38" source="Кузаков" target="Саяпин" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="39" source="Кушак" target="Мальчик">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="40" source="Кушак" target="Официант" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="41" source="Кушак" target="Саяпин" weight="4.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="42" source="Мальчик" target="Официант">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="43" source="Мальчик" target="Саяпин">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="44" source="Официант" target="Саяпин" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
