@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-15">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Суммарная мощность" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Kanye West" label="Kanye West">
+        <attvalues>
+          <attvalue for="degree" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-41.364586" y="110.85984"></viz:position>
+      </node>
+      <node id="T-Pain" label="T-Pain">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="22.413792"></viz:size>
+        <viz:position x="376.64117" y="325.032"></viz:position>
+      </node>
+      <node id="Lil Wayne" label="Lil Wayne">
+        <attvalues>
+          <attvalue for="degree" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="37.58621"></viz:size>
+        <viz:position x="286.40335" y="51.15282"></viz:position>
+      </node>
+      <node id="Mos Def" label="Mos Def">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.758621"></viz:size>
+        <viz:position x="-506.80988" y="-521.0826"></viz:position>
+      </node>
+      <node id="Kid Cudi" label="Kid Cudi">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.655172"></viz:size>
+        <viz:position x="-397.64362" y="350.3209"></viz:position>
+      </node>
+      <node id="Young Jeezy" label="Young Jeezy">
+        <attvalues>
+          <attvalue for="degree" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="25.172413"></viz:size>
+        <viz:position x="-131.78854" y="-92.3915"></viz:position>
+      </node>
+      <node id="Raekwon" label="Raekwon">
+        <attvalues>
+          <attvalue for="degree" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="25.172413"></viz:size>
+        <viz:position x="428.1029" y="-171.24641"></viz:position>
+      </node>
+      <node id="Jay Z" label="Jay Z">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-539.75867" y="492.06113"></viz:position>
+      </node>
+      <node id="Rick Ross" label="Rick Ross">
+        <attvalues>
+          <attvalue for="degree" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="40.344826"></viz:size>
+        <viz:position x="90.0151" y="-65.26845"></viz:position>
+      </node>
+      <node id="Nicki Minaj" label="Nicki Minaj">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.655172"></viz:size>
+        <viz:position x="11.835282" y="539.36896"></viz:position>
+      </node>
+      <node id="Pusha T" label="Pusha T">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="22.413792"></viz:size>
+        <viz:position x="-691.6359" y="68.07071"></viz:position>
+      </node>
+      <node id="RZA" label="RZA">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.379311"></viz:size>
+        <viz:position x="713.0418" y="144.39891"></viz:position>
+      </node>
+      <node id="Chance the Rapper" label="Chance the Rapper">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="21.034483"></viz:size>
+        <viz:position x="-205.78062" y="462.28867"></viz:position>
+      </node>
+      <node id="Travis Scott" label="Travis Scott">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.275864"></viz:size>
+        <viz:position x="-352.14618" y="647.7722"></viz:position>
+      </node>
+      <node id="Desiigner" label="Desiigner">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="11.379311"></viz:size>
+        <viz:position x="-662.9103" y="289.46555"></viz:position>
+      </node>
+      <node id="Young Thug" label="Young Thug">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.655172"></viz:size>
+        <viz:position x="108.36989" y="715.656"></viz:position>
+      </node>
+      <node id="Ty Dolla Sign" label="Ty Dolla Sign">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="23.793104"></viz:size>
+        <viz:position x="-517.9024" y="-82.83411"></viz:position>
+      </node>
+      <node id="Post Malone" label="Post Malone">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.137932"></viz:size>
+        <viz:position x="476.99924" y="530.4284"></viz:position>
+      </node>
+      <node id="Kendrick Lamar" label="Kendrick Lamar">
+        <attvalues>
+          <attvalue for="degree" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="32.068966"></viz:size>
+        <viz:position x="-122.64787" y="-502.91345"></viz:position>
+      </node>
+      <node id="Big Sean" label="Big Sean">
+        <attvalues>
+          <attvalue for="degree" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="30.689655"></viz:size>
+        <viz:position x="-233.88481" y="217.40016"></viz:position>
+      </node>
+      <node id="T.I." label="T.I.">
+        <attvalues>
+          <attvalue for="degree" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="27.931034"></viz:size>
+        <viz:position x="168.98602" y="208.58687"></viz:position>
+      </node>
+      <node id="Wiz Khalifa" label="Wiz Khalifa">
+        <attvalues>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.551725"></viz:size>
+        <viz:position x="-304.0918" y="20.04117"></viz:position>
+      </node>
+      <node id="Jay-Z" label="Jay-Z">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.275864"></viz:size>
+        <viz:position x="499.32288" y="157.94177"></viz:position>
+      </node>
+      <node id="Busta Rhymes" label="Busta Rhymes">
+        <attvalues>
+          <attvalue for="degree" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="25.172413"></viz:size>
+        <viz:position x="689.4753" y="-72.86586"></viz:position>
+      </node>
+      <node id="Eminem" label="Eminem">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="16.896553"></viz:size>
+        <viz:position x="268.24722" y="-175.4279"></viz:position>
+      </node>
+      <node id="Tech N9ne" label="Tech N9ne">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="21.034483"></viz:size>
+        <viz:position x="286.1824" y="-405.2612"></viz:position>
+      </node>
+      <node id="2 Chainz" label="2 Chainz">
+        <attvalues>
+          <attvalue for="degree" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="30.689655"></viz:size>
+        <viz:position x="190.91759" y="421.56982"></viz:position>
+      </node>
+      <node id="Future" label="Future">
+        <attvalues>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.551725"></viz:size>
+        <viz:position x="-483.4786" y="150.43027"></viz:position>
+      </node>
+      <node id="J. Cole" label="J. Cole">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.137932"></viz:size>
+        <viz:position x="528.5234" y="-487.65143"></viz:position>
+      </node>
+      <node id="Talib Kweli" label="Talib Kweli">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="15.5172415"></viz:size>
+        <viz:position x="348.67133" y="-618.07263"></viz:position>
+      </node>
+      <node id="ASAP Rocky" label="ASAP Rocky">
+        <attvalues>
+          <attvalue for="degree" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="27.931034"></viz:size>
+        <viz:position x="-360.88077" y="-210.09279"></viz:position>
+      </node>
+      <node id="Common" label="Common">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="16.896553"></viz:size>
+        <viz:position x="-25.613302" y="328.1889"></viz:position>
+      </node>
+      <node id="Nas" label="Nas">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="23.793104"></viz:size>
+        <viz:position x="477.89438" y="-55.166225"></viz:position>
+      </node>
+      <node id="Snoop Dogg" label="Snoop Dogg">
+        <attvalues>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.551725"></viz:size>
+        <viz:position x="-134.76248" y="-295.8846"></viz:position>
+      </node>
+      <node id="The Game" label="The Game">
+        <attvalues>
+          <attvalue for="degree" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="36.206894"></viz:size>
+        <viz:position x="74.67183" y="-287.0045"></viz:position>
+      </node>
+      <node id="Ghostface Killah" label="Ghostface Killah">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.379311"></viz:size>
+        <viz:position x="670.7031" y="-287.48135"></viz:position>
+      </node>
+      <node id="Gucci Mane" label="Gucci Mane">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="16.896553"></viz:size>
+        <viz:position x="615.01904" y="360.64008"></viz:position>
+      </node>
+      <node id="Dr. Dre" label="Dr. Dre">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="16.896553"></viz:size>
+        <viz:position x="95.08756" y="-513.13715"></viz:position>
+      </node>
+      <node id="Ab-Soul" label="Ab-Soul">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.275864"></viz:size>
+        <viz:position x="-87.11436" y="-710.48444"></viz:position>
+      </node>
+      <node id="Lil Yachty" label="Lil Yachty">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.137932"></viz:size>
+        <viz:position x="302.94406" y="635.61584"></viz:position>
+      </node>
+      <node id="Quavo" label="Quavo">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.275864"></viz:size>
+        <viz:position x="-135.25166" y="707.54047"></viz:position>
+      </node>
+      <node id="Schoolboy Q" label="Schoolboy Q">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="22.413792"></viz:size>
+        <viz:position x="-331.19522" y="-413.0947"></viz:position>
+      </node>
+      <node id="Jay Rock" label="Jay Rock">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.655172"></viz:size>
+        <viz:position x="147.3872" y="-706.05414"></viz:position>
+      </node>
+      <node id="Lupe Fiasco" label="Lupe Fiasco">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="15.5172415"></viz:size>
+        <viz:position x="-594.8992" y="-333.53928"></viz:position>
+      </node>
+      <node id="ASAP Ferg" label="ASAP Ferg">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="16.896553"></viz:size>
+        <viz:position x="-712.7998" y="-158.04082"></viz:position>
+      </node>
+      <node id="Danny Brown" label="Danny Brown">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.137932"></viz:size>
+        <viz:position x="-310.8559" y="-652.32153"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Kanye West" target="T-Pain" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="1" source="Kanye West" target="Lil Wayne" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="2" source="Kanye West" target="Mos Def" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="3" source="Kanye West" target="Kid Cudi" label="6.0" weight="6.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="4" source="Kanye West" target="Young Jeezy" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="5" source="Kanye West" target="Raekwon" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="6" source="Kanye West" target="Jay Z" label="13.0" weight="13.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="7" source="Kanye West" target="Rick Ross" label="5.0" weight="5.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="8" source="Kanye West" target="Nicki Minaj" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="9" source="Kanye West" target="Pusha T" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="10" source="Kanye West" target="RZA" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="11" source="Kanye West" target="Chance the Rapper" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="12" source="Kanye West" target="Travis Scott" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="13" source="Kanye West" target="Desiigner" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="14" source="Kanye West" target="Young Thug" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="15" source="Kanye West" target="Ty Dolla Sign" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="16" source="Kanye West" target="Post Malone" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="17" source="Kanye West" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="18" source="Kanye West" target="Big Sean" label="5.0" weight="5.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="19" source="T-Pain" target="Lil Wayne" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="20" source="T-Pain" target="T.I." label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="21" source="T-Pain" target="Wiz Khalifa" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="22" source="Lil Wayne" target="Jay-Z" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="23" source="Lil Wayne" target="Busta Rhymes" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="24" source="Lil Wayne" target="Eminem" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="25" source="Lil Wayne" target="Nicki Minaj" label="9.0" weight="9.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="26" source="Lil Wayne" target="Tech N9ne" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="27" source="Lil Wayne" target="Rick Ross" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="28" source="Lil Wayne" target="2 Chainz" label="12.0" weight="12.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="29" source="Lil Wayne" target="Future" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="30" source="Lil Wayne" target="Wiz Khalifa" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="31" source="Lil Wayne" target="Young Jeezy" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="32" source="Lil Wayne" target="J. Cole" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="33" source="Lil Wayne" target="T.I." label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="34" source="Lil Wayne" target="Chance the Rapper" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="35" source="Mos Def" target="Talib Kweli" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="36" source="Kid Cudi" target="Travis Scott" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="37" source="Kid Cudi" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="38" source="Kid Cudi" target="ASAP Rocky" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="39" source="Kid Cudi" target="Common" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="40" source="Young Jeezy" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="41" source="Young Jeezy" target="Future" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="42" source="Young Jeezy" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="43" source="Young Jeezy" target="T.I." label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="44" source="Young Jeezy" target="Jay-Z" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="45" source="Young Jeezy" target="Snoop Dogg" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="46" source="Young Jeezy" target="The Game" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="47" source="Young Jeezy" target="Rick Ross" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="48" source="Raekwon" target="RZA" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="49" source="Raekwon" target="Ghostface Killah" label="14.0" weight="14.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="50" source="Raekwon" target="Busta Rhymes" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="51" source="Raekwon" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="52" source="Raekwon" target="Rick Ross" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="53" source="Raekwon" target="ASAP Rocky" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="54" source="Raekwon" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="55" source="Raekwon" target="Snoop Dogg" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="56" source="Raekwon" target="Lil Wayne" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="57" source="Jay-Z" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="58" source="Jay-Z" target="J. Cole" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="59" source="Jay-Z" target="Kid Cudi" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="60" source="Rick Ross" target="T-Pain" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="61" source="Rick Ross" target="Jay-Z" label="5.0" weight="5.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="62" source="Rick Ross" target="Nas" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="63" source="Rick Ross" target="T.I." label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="64" source="Rick Ross" target="Gucci Mane" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="65" source="Rick Ross" target="Dr. Dre" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="66" source="Rick Ross" target="Big Sean" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="67" source="Rick Ross" target="Future" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="68" source="Rick Ross" target="Young Thug" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="69" source="Rick Ross" target="Ty Dolla Sign" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="70" source="Nicki Minaj" target="Eminem" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="71" source="Nicki Minaj" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="72" source="Nicki Minaj" target="2 Chainz" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="73" source="Pusha T" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="74" source="Pusha T" target="Young Jeezy" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="75" source="Pusha T" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="76" source="Pusha T" target="Big Sean" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="77" source="Pusha T" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="78" source="Pusha T" target="Future" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="79" source="Pusha T" target="ASAP Rocky" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="80" source="Chance the Rapper" target="Ab-Soul" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="81" source="Chance the Rapper" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="82" source="Chance the Rapper" target="Young Thug" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="83" source="Chance the Rapper" target="Lil Yachty" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="84" source="Chance the Rapper" target="Future" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="85" source="Chance the Rapper" target="T-Pain" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="86" source="Chance the Rapper" target="Ty Dolla Sign" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="87" source="Travis Scott" target="Quavo" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="88" source="Travis Scott" target="Future" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="89" source="Travis Scott" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="90" source="Travis Scott" target="Young Thug" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="91" source="Desiigner" target="Pusha T" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="92" source="Young Thug" target="Quavo" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="93" source="Young Thug" target="Gucci Mane" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="94" source="Ty Dolla Sign" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="95" source="Ty Dolla Sign" target="Wiz Khalifa" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="96" source="Ty Dolla Sign" target="Future" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="97" source="Post Malone" target="Quavo" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="98" source="Post Malone" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="99" source="Post Malone" target="Lil Yachty" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="100" source="Kendrick Lamar" target="Schoolboy Q" label="5.0" weight="5.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="101" source="Kendrick Lamar" target="Ab-Soul" label="6.0" weight="6.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="102" source="Kendrick Lamar" target="Jay Rock" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="103" source="Kendrick Lamar" target="Dr. Dre" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="104" source="Kendrick Lamar" target="Snoop Dogg" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="105" source="Big Sean" target="Lupe Fiasco" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="106" source="Big Sean" target="Wiz Khalifa" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="107" source="Big Sean" target="Lil Wayne" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="108" source="Big Sean" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="109" source="Big Sean" target="Kid Cudi" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="110" source="Big Sean" target="Nicki Minaj" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="111" source="Big Sean" target="Young Jeezy" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="112" source="Big Sean" target="Ty Dolla Sign" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="113" source="Big Sean" target="Eminem" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="114" source="Big Sean" target="Quavo" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="115" source="T.I." target="Kanye West" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="116" source="T.I." target="Jay-Z" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="117" source="T.I." target="Kid Cudi" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="118" source="T.I." target="Eminem" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="119" source="T.I." target="ASAP Rocky" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="120" source="T.I." target="Young Thug" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="121" source="T.I." target="Quavo" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="122" source="Wiz Khalifa" target="Snoop Dogg" label="14.0" weight="14.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="123" source="Wiz Khalifa" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="124" source="Wiz Khalifa" target="Nicki Minaj" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="125" source="Wiz Khalifa" target="Schoolboy Q" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="126" source="Wiz Khalifa" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="127" source="Wiz Khalifa" target="Ty Dolla Sign" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="128" source="Wiz Khalifa" target="Travis Scott" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="129" source="Busta Rhymes" target="T-Pain" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="130" source="Busta Rhymes" target="T.I." label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="131" source="Busta Rhymes" target="Common" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="132" source="Busta Rhymes" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="133" source="Busta Rhymes" target="Gucci Mane" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="134" source="Eminem" target="Dr. Dre" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="135" source="Eminem" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="136" source="Tech N9ne" target="Busta Rhymes" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="137" source="Tech N9ne" target="Kendrick Lamar" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="138" source="Tech N9ne" target="T-Pain" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="139" source="Tech N9ne" target="Snoop Dogg" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="140" source="Tech N9ne" target="Jay Rock" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="141" source="Tech N9ne" target="Wiz Khalifa" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="142" source="Tech N9ne" target="T.I." label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="143" source="Tech N9ne" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="144" source="2 Chainz" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="145" source="2 Chainz" target="T-Pain" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="146" source="J. Cole" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="147" source="Talib Kweli" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="148" source="Talib Kweli" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="149" source="Talib Kweli" target="Busta Rhymes" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="150" source="Talib Kweli" target="Raekwon" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="151" source="ASAP Rocky" target="Schoolboy Q" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="152" source="ASAP Rocky" target="ASAP Ferg" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="153" source="ASAP Rocky" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="154" source="ASAP Rocky" target="Kendrick Lamar" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="155" source="ASAP Rocky" target="Danny Brown" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="156" source="ASAP Rocky" target="Future" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="157" source="ASAP Rocky" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="158" source="ASAP Rocky" target="Lil Wayne" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="159" source="ASAP Rocky" target="Mos Def" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="160" source="Common" target="Kanye West" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="161" source="Common" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="162" source="Common" target="Big Sean" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="163" source="Nas" target="The Game" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="164" source="Nas" target="Busta Rhymes" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="165" source="Nas" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="166" source="Future" target="T.I." label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="167" source="Future" target="Snoop Dogg" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="168" source="Future" target="Wiz Khalifa" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="169" source="Future" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="170" source="Snoop Dogg" target="T-Pain" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="171" source="Snoop Dogg" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="172" source="Snoop Dogg" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="173" source="Snoop Dogg" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="174" source="The Game" target="Kendrick Lamar" label="3.0" weight="3.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="175" source="The Game" target="Dr. Dre" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="176" source="The Game" target="Snoop Dogg" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="177" source="The Game" target="Lil Wayne" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="178" source="The Game" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="179" source="The Game" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="180" source="The Game" target="Common" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="181" source="The Game" target="Kanye West" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="182" source="The Game" target="J. Cole" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="183" source="The Game" target="Big Sean" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="184" source="The Game" target="Pusha T" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="185" source="The Game" target="Dr. Dre" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="186" source="The Game" target="Ab-Soul" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="187" source="The Game" target="Jay Rock" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="188" source="The Game" target="Schoolboy Q" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="189" source="The Game" target="Nas" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="190" source="The Game" target="Ty Dolla Sign" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="191" source="The Game" target="Busta Rhymes" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="192" source="Ghostface Killah" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="193" source="Gucci Mane" target="Lil Wayne" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="194" source="Gucci Mane" target="Nicki Minaj" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="195" source="Gucci Mane" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="196" source="Dr. Dre" target="Snoop Dogg" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="197" source="Ab-Soul" target="Schoolboy Q" label="9.0" weight="9.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="198" source="Ab-Soul" target="Jay Rock" label="6.0" weight="6.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="199" source="Ab-Soul" target="Danny Brown" label="4.0" weight="4.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="200" source="Ab-Soul" target="Lupe Fiasco" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="201" source="Lil Yachty" target="Quavo" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="202" source="Lil Yachty" target="Young Thug" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="203" source="Quavo" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="204" source="Schoolboy Q" target="Jay Rock" label="5.0" weight="5.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="205" source="Schoolboy Q" target="2 Chainz" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="206" source="Schoolboy Q" target="Raekwon" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="207" source="Schoolboy Q" target="Kanye West" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="208" source="Jay Rock" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="209" source="Jay Rock" target="Lil Wayne" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="210" source="Jay Rock" target="Busta Rhymes" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="211" source="Lupe Fiasco" target="Snoop Dogg" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="212" source="Lupe Fiasco" target="Ty Dolla Sign" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="213" source="Lupe Fiasco" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="214" source="Danny Brown" target="ASAP Rocky" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="215" source="Danny Brown" target="Kendrick Lamar" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="216" source="ASAP Ferg" target="Schoolboy Q" label="2.0" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="217" source="ASAP Ferg" target="Future" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="218" source="ASAP Ferg" target="Rick Ross" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="219" source="ASAP Ferg" target="Big Sean" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="220" source="ASAP Ferg" target="Ty Dolla Sign" label="1.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
