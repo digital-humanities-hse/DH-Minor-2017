@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="CORDELL" label="CORDELL">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-574.6885" y="-267.00708"></viz:position>
+      </node>
+      <node id="COMMITTEE MEMBER" label="COMMITTEE MEMBER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="415.4853" y="-185.05966"></viz:position>
+      </node>
+      <node id="PAZZI" label="PAZZI">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="343.90906" y="454.38834"></viz:position>
+      </node>
+      <node id="COP TWO" label="COP TWO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-271.16855" y="254.74652"></viz:position>
+      </node>
+      <node id="COP" label="COP">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-48.68573" y="-447.95755"></viz:position>
+      </node>
+      <node id="VERGER" label="VERGER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-637.64026" y="-33.342873"></viz:position>
+      </node>
+      <node id="BRIGHAM" label="BRIGHAM">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="453.5147" y="-419.25775"></viz:position>
+      </node>
+      <node id="FRANKLIN" label="FRANKLIN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.55588" y="395.47937"></viz:position>
+      </node>
+      <node id="GENTLEMAN" label="GENTLEMAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.9687" y="-451.4608"></viz:position>
+      </node>
+      <node id="MAN ONE" label="MAN ONE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-335.40997" y="-372.00018"></viz:position>
+      </node>
+      <node id="MAN" label="MAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="304.55194" y="217.34912"></viz:position>
+      </node>
+      <node id="NURSE" label="NURSE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="310.216" y="83.89642"></viz:position>
+      </node>
+      <node id="OFFICER" label="OFFICER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.18774" y="-68.27466"></viz:position>
+      </node>
+      <node id="SECOND GENTLEMAN" label="SECOND GENTLEMAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-274.57257" y="45.5896"></viz:position>
+      </node>
+      <node id="TECHNICIAN" label="TECHNICIAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-416.46237" y="-92.51691"></viz:position>
+      </node>
+      <node id="CRAWFORD" label="CRAWFORD">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.4394836" y="312.70264"></viz:position>
+      </node>
+      <node id="GUIDE" label="GUIDE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="127.62274" y="-394.92435"></viz:position>
+      </node>
+      <node id="DRUMGO" label="DRUMGO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.53146" y="427.77692"></viz:position>
+      </node>
+      <node id="LECTER" label="LECTER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="621.10175" y="9.120852"></viz:position>
+      </node>
+      <node id="A THIRD OLD MAN" label="A THIRD OLD MAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-418.94162" y="433.74585"></viz:position>
+      </node>
+      <node id="AGENT" label="AGENT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-245.6171" y="271.56622"></viz:position>
+      </node>
+      <node id="ALLEGRA" label="ALLEGRA">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-172.65292" y="432.1186"></viz:position>
+      </node>
+      <node id="ANOTHER OLD MAN" label="ANOTHER OLD MAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-119.20419" y="-51.79956"></viz:position>
+      </node>
+      <node id="BRIGAND ONE" label="BRIGAND ONE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-27.12146" y="215.70734"></viz:position>
+      </node>
+      <node id="BRIGAND TWO" label="BRIGAND TWO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-105.46094" y="200.30359"></viz:position>
+      </node>
+      <node id="COP ONE" label="COP ONE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.83957" y="160.86609"></viz:position>
+      </node>
+      <node id="KRENDLER" label="KRENDLER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.92923" y="436.14014"></viz:position>
+      </node>
+      <node id="MAPP" label="MAPP">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.8525085" y="381.58984"></viz:position>
+      </node>
+      <node id="MOTHER" label="MOTHER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="111.60004" y="-178.4159"></viz:position>
+      </node>
+      <node id="NEWSIE" label="NEWSIE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="332.75702" y="-128.54245"></viz:position>
+      </node>
+      <node id="RICCI" label="RICCI">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-161.61508" y="486.3838"></viz:position>
+      </node>
+      <node id="SECOND NEWSIE" label="SECOND NEWSIE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-376.76743" y="-10.715973"></viz:position>
+      </node>
+      <node id="SOGLIATO" label="SOGLIATO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-85.506226" y="326.16498"></viz:position>
+      </node>
+      <node id="STEWARDESS" label="STEWARDESS">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="145.47327" y="180.47919"></viz:position>
+      </node>
+      <node id="SWAT MAN" label="SWAT MAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-306.52386" y="-37.4187"></viz:position>
+      </node>
+      <node id="SWAT OFFICER" label="SWAT OFFICER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-284.83496" y="268.49536"></viz:position>
+      </node>
+      <node id="TALKING HEAD" label="TALKING HEAD">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="166.58374" y="-305.4726"></viz:position>
+      </node>
+      <node id="TRAVEL AGENT" label="TRAVEL AGENT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="118.35132" y="-0.62268066"></viz:position>
+      </node>
+      <node id="YOUNG GIRL" label="YOUNG GIRL">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-374.37253" y="-49.910645"></viz:position>
+      </node>
+      <node id="YOUNG MOTHER" label="YOUNG MOTHER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.0892944" y="-222.68887"></viz:position>
+      </node>
+      <node id="AIDE" label="AIDE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="338.25262" y="-168.0857"></viz:position>
+      </node>
+      <node id="ANNA" label="ANNA">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-304.1305" y="-309.79837"></viz:position>
+      </node>
+      <node id="BANKER" label="BANKER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="149.35828" y="-162.06134"></viz:position>
+      </node>
+      <node id="COLLEAGUE" label="COLLEAGUE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="441.84253" y="-8.309204"></viz:position>
+      </node>
+      <node id="FOREIGN COP" label="FOREIGN COP">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="497.58386" y="-265.0772"></viz:position>
+      </node>
+      <node id="JIM" label="JIM">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.78456" y="179.66211"></viz:position>
+      </node>
+      <node id="SUPERIOR" label="SUPERIOR">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="67.22931" y="-136.00287"></viz:position>
+      </node>
+      <node id="STARLING" label="STARLING">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-656.6065" y="367.81564"></viz:position>
+      </node>
+      <node id="BARNEY" label="BARNEY">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="183.67273" y="-134.56683"></viz:position>
+      </node>
+      <node id="FBI TYPE" label="FBI TYPE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="102.134705" y="19.779663"></viz:position>
+      </node>
+      <node id="PSYCHIATRIST" label="PSYCHIATRIST">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="104.29248" y="-75.88992"></viz:position>
+      </node>
+      <node id="REGISTRAR" label="REGISTRAR">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-327.0" y="-246.01425"></viz:position>
+      </node>
+      <node id="SECOND SWAT OFFICER" label="SECOND SWAT OFFICER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.90198" y="157.6557"></viz:position>
+      </node>
+      <node id="TEAM LEADER" label="TEAM LEADER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="300.38495" y="-366.5876"></viz:position>
+      </node>
+      <node id="WOMAN" label="WOMAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.71735" y="-304.00122"></viz:position>
+      </node>
+      <node id="VOICE ON PHONE" label="VOICE ON PHONE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="271.02887" y="225.1275"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="COMMITTEE MEMBER" target="PAZZI"></edge>
+      <edge id="2" source="COP TWO" target="PAZZI"></edge>
+      <edge id="3" source="COP" target="CORDELL"></edge>
+      <edge id="4" source="COP" target="PAZZI" weight="2.0"></edge>
+      <edge id="5" source="COP" target="VERGER"></edge>
+      <edge id="6" source="CORDELL" target="BRIGHAM"></edge>
+      <edge id="7" source="CORDELL" target="FRANKLIN" weight="2.0"></edge>
+      <edge id="8" source="CORDELL" target="GENTLEMAN" weight="2.0"></edge>
+      <edge id="9" source="CORDELL" target="MAN ONE"></edge>
+      <edge id="10" source="CORDELL" target="MAN" weight="2.0"></edge>
+      <edge id="11" source="CORDELL" target="NURSE"></edge>
+      <edge id="12" source="CORDELL" target="OFFICER"></edge>
+      <edge id="13" source="CORDELL" target="SECOND GENTLEMAN"></edge>
+      <edge id="14" source="CORDELL" target="TECHNICIAN"></edge>
+      <edge id="15" source="CORDELL" target="VERGER" weight="10.0"></edge>
+      <edge id="16" source="CRAWFORD" target="GUIDE"></edge>
+      <edge id="17" source="DRUMGO" target="CORDELL"></edge>
+      <edge id="18" source="LECTER" target="A THIRD OLD MAN"></edge>
+      <edge id="19" source="LECTER" target="AGENT"></edge>
+      <edge id="20" source="LECTER" target="ALLEGRA" weight="2.0"></edge>
+      <edge id="21" source="LECTER" target="ANOTHER OLD MAN"></edge>
+      <edge id="22" source="LECTER" target="BRIGAND ONE"></edge>
+      <edge id="23" source="LECTER" target="BRIGAND TWO"></edge>
+      <edge id="24" source="LECTER" target="BRIGHAM"></edge>
+      <edge id="25" source="LECTER" target="COMMITTEE MEMBER"></edge>
+      <edge id="26" source="LECTER" target="COP ONE"></edge>
+      <edge id="27" source="LECTER" target="COP"></edge>
+      <edge id="28" source="LECTER" target="CORDELL" weight="2.0"></edge>
+      <edge id="29" source="LECTER" target="CRAWFORD"></edge>
+      <edge id="30" source="LECTER" target="FRANKLIN"></edge>
+      <edge id="31" source="LECTER" target="GUIDE"></edge>
+      <edge id="32" source="LECTER" target="KRENDLER"></edge>
+      <edge id="33" source="LECTER" target="MAN ONE"></edge>
+      <edge id="34" source="LECTER" target="MAN" weight="3.0"></edge>
+      <edge id="35" source="LECTER" target="MAPP"></edge>
+      <edge id="36" source="LECTER" target="MOTHER"></edge>
+      <edge id="37" source="LECTER" target="NEWSIE"></edge>
+      <edge id="38" source="LECTER" target="OFFICER"></edge>
+      <edge id="39" source="LECTER" target="PAZZI" weight="4.0"></edge>
+      <edge id="40" source="LECTER" target="RICCI"></edge>
+      <edge id="41" source="LECTER" target="SECOND NEWSIE"></edge>
+      <edge id="42" source="LECTER" target="SOGLIATO"></edge>
+      <edge id="43" source="LECTER" target="STEWARDESS"></edge>
+      <edge id="44" source="LECTER" target="SWAT MAN"></edge>
+      <edge id="45" source="LECTER" target="SWAT OFFICER"></edge>
+      <edge id="46" source="LECTER" target="TALKING HEAD"></edge>
+      <edge id="47" source="LECTER" target="TRAVEL AGENT"></edge>
+      <edge id="48" source="LECTER" target="VERGER" weight="2.0"></edge>
+      <edge id="49" source="LECTER" target="YOUNG GIRL"></edge>
+      <edge id="50" source="LECTER" target="YOUNG MOTHER"></edge>
+      <edge id="51" source="NURSE" target="VERGER"></edge>
+      <edge id="52" source="OFFICER" target="KRENDLER"></edge>
+      <edge id="53" source="OFFICER" target="VERGER"></edge>
+      <edge id="54" source="PAZZI" target="A THIRD OLD MAN"></edge>
+      <edge id="55" source="PAZZI" target="AIDE"></edge>
+      <edge id="56" source="PAZZI" target="ALLEGRA" weight="2.0"></edge>
+      <edge id="57" source="PAZZI" target="ANNA"></edge>
+      <edge id="58" source="PAZZI" target="ANOTHER OLD MAN"></edge>
+      <edge id="59" source="PAZZI" target="BANKER"></edge>
+      <edge id="60" source="PAZZI" target="BRIGAND ONE"></edge>
+      <edge id="61" source="PAZZI" target="BRIGAND TWO"></edge>
+      <edge id="62" source="PAZZI" target="BRIGHAM"></edge>
+      <edge id="63" source="PAZZI" target="COLLEAGUE"></edge>
+      <edge id="64" source="PAZZI" target="COP ONE" weight="4.0"></edge>
+      <edge id="65" source="PAZZI" target="CRAWFORD"></edge>
+      <edge id="66" source="PAZZI" target="FOREIGN COP"></edge>
+      <edge id="67" source="PAZZI" target="GUIDE" weight="2.0"></edge>
+      <edge id="68" source="PAZZI" target="JIM"></edge>
+      <edge id="69" source="PAZZI" target="KRENDLER"></edge>
+      <edge id="70" source="PAZZI" target="MAN" weight="2.0"></edge>
+      <edge id="71" source="PAZZI" target="MAPP"></edge>
+      <edge id="72" source="PAZZI" target="RICCI"></edge>
+      <edge id="73" source="PAZZI" target="SOGLIATO"></edge>
+      <edge id="74" source="PAZZI" target="STEWARDESS"></edge>
+      <edge id="75" source="PAZZI" target="SUPERIOR"></edge>
+      <edge id="76" source="SECOND GENTLEMAN" target="VERGER"></edge>
+      <edge id="77" source="SECOND NEWSIE" target="CRAWFORD"></edge>
+      <edge id="78" source="STARLING" target="AGENT" weight="2.0"></edge>
+      <edge id="79" source="STARLING" target="AIDE" weight="2.0"></edge>
+      <edge id="80" source="STARLING" target="BARNEY" weight="2.0"></edge>
+      <edge id="81" source="STARLING" target="BRIGHAM" weight="6.0"></edge>
+      <edge id="82" source="STARLING" target="COP" weight="2.0"></edge>
+      <edge id="83" source="STARLING" target="CORDELL" weight="5.0"></edge>
+      <edge id="84" source="STARLING" target="CRAWFORD" weight="4.0"></edge>
+      <edge id="85" source="STARLING" target="DRUMGO" weight="2.0"></edge>
+      <edge id="86" source="STARLING" target="FBI TYPE"></edge>
+      <edge id="87" source="STARLING" target="FOREIGN COP"></edge>
+      <edge id="88" source="STARLING" target="FRANKLIN"></edge>
+      <edge id="89" source="STARLING" target="GUIDE"></edge>
+      <edge id="90" source="STARLING" target="JIM"></edge>
+      <edge id="91" source="STARLING" target="KRENDLER" weight="3.0"></edge>
+      <edge id="92" source="STARLING" target="LECTER" weight="4.0"></edge>
+      <edge id="93" source="STARLING" target="MAN" weight="2.0"></edge>
+      <edge id="94" source="STARLING" target="MAPP" weight="5.0"></edge>
+      <edge id="95" source="STARLING" target="MOTHER"></edge>
+      <edge id="96" source="STARLING" target="NEWSIE"></edge>
+      <edge id="97" source="STARLING" target="NURSE"></edge>
+      <edge id="98" source="STARLING" target="OFFICER" weight="3.0"></edge>
+      <edge id="99" source="STARLING" target="PAZZI" weight="2.0"></edge>
+      <edge id="100" source="STARLING" target="PSYCHIATRIST" weight="5.0"></edge>
+      <edge id="101" source="STARLING" target="REGISTRAR"></edge>
+      <edge id="102" source="STARLING" target="SECOND NEWSIE"></edge>
+      <edge id="103" source="STARLING" target="SECOND SWAT OFFICER"></edge>
+      <edge id="104" source="STARLING" target="SWAT MAN"></edge>
+      <edge id="105" source="STARLING" target="SWAT OFFICER" weight="3.0"></edge>
+      <edge id="106" source="STARLING" target="TALKING HEAD"></edge>
+      <edge id="107" source="STARLING" target="TEAM LEADER"></edge>
+      <edge id="108" source="STARLING" target="TECHNICIAN" weight="2.0"></edge>
+      <edge id="109" source="STARLING" target="TRAVEL AGENT"></edge>
+      <edge id="110" source="STARLING" target="VERGER" weight="3.0"></edge>
+      <edge id="111" source="STARLING" target="WOMAN"></edge>
+      <edge id="112" source="SWAT OFFICER" target="CORDELL"></edge>
+      <edge id="113" source="SWAT OFFICER" target="VERGER"></edge>
+      <edge id="114" source="TEAM LEADER" target="CORDELL"></edge>
+      <edge id="115" source="TECHNICIAN" target="CRAWFORD"></edge>
+      <edge id="116" source="VERGER" target="BRIGHAM"></edge>
+      <edge id="117" source="VERGER" target="GENTLEMAN"></edge>
+      <edge id="118" source="VOICE ON PHONE" target="PAZZI"></edge>
+    </edges>
+  </graph>
+</gexf>

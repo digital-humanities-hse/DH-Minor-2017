@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="BARNEY" label="BARNEY">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.4765" y="-377.0799"></viz:position>
+      </node>
+      <node id="LECTER" label="LECTER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="548.84753" y="23.77401"></viz:position>
+      </node>
+      <node id="BOLTON" label="BOLTON">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.37183" y="159.00763"></viz:position>
+      </node>
+      <node id="STARLING" label="STARLING">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-633.052" y="354.76996"></viz:position>
+      </node>
+      <node id="BRIGHAM" label="BRIGHAM">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="122.27545" y="247.59381"></viz:position>
+      </node>
+      <node id="CARLO" label="CARLO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="336.19366" y="-22.528687"></viz:position>
+      </node>
+      <node id="PAZZI" label="PAZZI">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.900276" y="560.0906"></viz:position>
+      </node>
+      <node id="CLERK" label="CLERK">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-93.434845" y="-230.59872"></viz:position>
+      </node>
+      <node id="CORDELL" label="CORDELL">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-641.44916" y="-136.07378"></viz:position>
+      </node>
+      <node id="FBI AGENT" label="FBI AGENT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-277.18414" y="245.01477"></viz:position>
+      </node>
+      <node id="OFFICER" label="OFFICER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="192.34973" y="432.48798"></viz:position>
+      </node>
+      <node id="CUSTOMER" label="CUSTOMER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-458.38022" y="-218.70358"></viz:position>
+      </node>
+      <node id="DETECTIVE" label="DETECTIVE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="418.30585" y="301.69165"></viz:position>
+      </node>
+      <node id="DRUMGO" label="DRUMGO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.41922" y="-376.92856"></viz:position>
+      </node>
+      <node id="ECHOING VOICE" label="ECHOING VOICE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="288.72284" y="-321.0935"></viz:position>
+      </node>
+      <node id="GNOCCO" label="GNOCCO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-384.34244" y="-141.41357"></viz:position>
+      </node>
+      <node id="HAWKINS" label="HAWKINS">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-274.56253" y="-467.70544"></viz:position>
+      </node>
+      <node id="HOLCOME" label="HOLCOME">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="122.93866" y="386.65723"></viz:position>
+      </node>
+      <node id="KRENDLER" label="KRENDLER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-465.915" y="416.83008"></viz:position>
+      </node>
+      <node id="ALLEGRA" label="ALLEGRA">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.22154" y="-102.73547"></viz:position>
+      </node>
+      <node id="BOY" label="BOY">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="128.60474" y="219.15314"></viz:position>
+      </node>
+      <node id="CRAWFORD" label="CRAWFORD">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-248.37262" y="236.11072"></viz:position>
+      </node>
+      <node id="GEOFFREY" label="GEOFFREY">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-486.3835" y="127.76935"></viz:position>
+      </node>
+      <node id="MAN" label="MAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.45825" y="-221.4642"></viz:position>
+      </node>
+      <node id="MASON" label="MASON">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="450.5841" y="-380.36783"></viz:position>
+      </node>
+      <node id="MOTORCYCLIST" label="MOTORCYCLIST">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="298.51196" y="-400.6792"></viz:position>
+      </node>
+      <node id="RICCI" label="RICCI">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.54614" y="-343.42926"></viz:position>
+      </node>
+      <node id="SALES CLERK" label="SALES CLERK">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="317.15582" y="292.29163"></viz:position>
+      </node>
+      <node id="SANTA CLAUS" label="SANTA CLAUS">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-342.8218" y="484.43958"></viz:position>
+      </node>
+      <node id="TALKING HEAD" label="TALKING HEAD">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-383.03247" y="267.26825"></viz:position>
+      </node>
+      <node id="WOMAN" label="WOMAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-312.1841" y="121.81421"></viz:position>
+      </node>
+      <node id="LESS BIGGEST NOSE" label="LESS BIGGEST NOSE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.2705" y="231.78754"></viz:position>
+      </node>
+      <node id="NOONAN" label="NOONAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.75977" y="92.82745"></viz:position>
+      </node>
+      <node id="JEWELER" label="JEWELER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-452.1632" y="351.16034"></viz:position>
+      </node>
+      <node id="MR. KONIE" label="MR. KONIE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.6102" y="465.1878"></viz:position>
+      </node>
+      <node id="PERFUMER" label="PERFUMER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.69385" y="272.80603"></viz:position>
+      </node>
+      <node id="THEATERGOER" label="THEATERGOER">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-399.849" y="78.83569"></viz:position>
+      </node>
+      <node id="PROPRIETOR" label="PROPRIETOR">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="110.99396" y="-200.5581"></viz:position>
+      </node>
+      <node id="RECEPTIONIST" label="RECEPTIONIST">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-426.26013" y="-309.3797"></viz:position>
+      </node>
+      <node id="ROMULA" label="ROMULA">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="475.3479" y="500.5854"></viz:position>
+      </node>
+      <node id="SNEED" label="SNEED">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-170.48108" y="-395.75937"></viz:position>
+      </node>
+      <node id="SOGLIATO" label="SOGLIATO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.5453" y="-37.037476"></viz:position>
+      </node>
+      <node id="BIGGEST NOSE" label="BIGGEST NOSE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="180.03906" y="93.95404"></viz:position>
+      </node>
+      <node id="LEAST BIGGEST NOSE" label="LEAST BIGGEST NOSE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="28.806396" y="-302.20392"></viz:position>
+      </node>
+      <node id="PEARSALL" label="PEARSALL">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-373.70938" y="76.06152"></viz:position>
+      </node>
+      <node id="TECHNICIAN" label="TECHNICIAN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-400.30154" y="-53.417786"></viz:position>
+      </node>
+      <node id="WAYNE" label="WAYNE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="189.59332" y="33.937805"></viz:position>
+      </node>
+      <node id="WINE MERCHANT" label="WINE MERCHANT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-37.035187" y="-243.15451"></viz:position>
+      </node>
+      <node id="YOUNG AGENT" label="YOUNG AGENT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="236.25146" y="160.38208"></viz:position>
+      </node>
+      <node id="VOICE" label="VOICE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-54.668488" y="-264.50424"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="BARNEY" target="LECTER"></edge>
+      <edge id="1" source="BOLTON" target="STARLING"></edge>
+      <edge id="2" source="BRIGHAM" target="STARLING"></edge>
+      <edge id="3" source="CARLO" target="LECTER"></edge>
+      <edge id="4" source="CARLO" target="PAZZI" weight="2.0"></edge>
+      <edge id="5" source="CARLO" target="STARLING"></edge>
+      <edge id="6" source="CLERK" target="STARLING"></edge>
+      <edge id="7" source="CORDELL" target="BARNEY"></edge>
+      <edge id="8" source="CORDELL" target="FBI AGENT"></edge>
+      <edge id="9" source="CORDELL" target="LECTER"></edge>
+      <edge id="10" source="CORDELL" target="OFFICER"></edge>
+      <edge id="11" source="CORDELL" target="STARLING" weight="2.0"></edge>
+      <edge id="12" source="CUSTOMER" target="STARLING"></edge>
+      <edge id="13" source="DETECTIVE" target="PAZZI" weight="2.0"></edge>
+      <edge id="14" source="DRUMGO" target="STARLING"></edge>
+      <edge id="15" source="ECHOING VOICE" target="PAZZI"></edge>
+      <edge id="16" source="GNOCCO" target="PAZZI" weight="2.0"></edge>
+      <edge id="17" source="HAWKINS" target="STARLING"></edge>
+      <edge id="18" source="HOLCOME" target="STARLING"></edge>
+      <edge id="19" source="KRENDLER" target="STARLING" weight="3.0"></edge>
+      <edge id="20" source="LECTER" target="ALLEGRA"></edge>
+      <edge id="21" source="LECTER" target="BOY"></edge>
+      <edge id="22" source="LECTER" target="CRAWFORD" weight="2.0"></edge>
+      <edge id="23" source="LECTER" target="ECHOING VOICE"></edge>
+      <edge id="24" source="LECTER" target="GEOFFREY"></edge>
+      <edge id="25" source="LECTER" target="KRENDLER" weight="4.0"></edge>
+      <edge id="26" source="LECTER" target="MAN"></edge>
+      <edge id="27" source="LECTER" target="MASON" weight="3.0"></edge>
+      <edge id="28" source="LECTER" target="MOTORCYCLIST"></edge>
+      <edge id="29" source="LECTER" target="PAZZI" weight="5.0"></edge>
+      <edge id="30" source="LECTER" target="RICCI"></edge>
+      <edge id="31" source="LECTER" target="SALES CLERK"></edge>
+      <edge id="32" source="LECTER" target="SANTA CLAUS"></edge>
+      <edge id="33" source="LECTER" target="TALKING HEAD"></edge>
+      <edge id="34" source="LECTER" target="WOMAN"></edge>
+      <edge id="35" source="LESS BIGGEST NOSE" target="STARLING"></edge>
+      <edge id="36" source="MASON" target="CORDELL" weight="3.0"></edge>
+      <edge id="37" source="MASON" target="STARLING"></edge>
+      <edge id="38" source="NOONAN" target="STARLING"></edge>
+      <edge id="39" source="PAZZI" target="ALLEGRA" weight="2.0"></edge>
+      <edge id="40" source="PAZZI" target="GNOCCO" weight="2.0"></edge>
+      <edge id="41" source="PAZZI" target="JEWELER"></edge>
+      <edge id="42" source="PAZZI" target="MR. KONIE"></edge>
+      <edge id="43" source="PAZZI" target="PERFUMER"></edge>
+      <edge id="44" source="PAZZI" target="RICCI" weight="2.0"></edge>
+      <edge id="45" source="PAZZI" target="THEATERGOER"></edge>
+      <edge id="46" source="PROPRIETOR" target="STARLING"></edge>
+      <edge id="47" source="RECEPTIONIST" target="STARLING"></edge>
+      <edge id="48" source="ROMULA" target="PAZZI" weight="3.0"></edge>
+      <edge id="49" source="SANTA CLAUS" target="STARLING"></edge>
+      <edge id="50" source="SNEED" target="STARLING"></edge>
+      <edge id="51" source="SOGLIATO" target="LECTER"></edge>
+      <edge id="52" source="SOGLIATO" target="PAZZI"></edge>
+      <edge id="53" source="STARLING" target="BARNEY" weight="2.0"></edge>
+      <edge id="54" source="STARLING" target="BIGGEST NOSE"></edge>
+      <edge id="55" source="STARLING" target="CRAWFORD" weight="5.0"></edge>
+      <edge id="56" source="STARLING" target="DETECTIVE"></edge>
+      <edge id="57" source="STARLING" target="GEOFFREY" weight="2.0"></edge>
+      <edge id="58" source="STARLING" target="LEAST BIGGEST NOSE"></edge>
+      <edge id="59" source="STARLING" target="LECTER" weight="12.0"></edge>
+      <edge id="60" source="STARLING" target="PAZZI" weight="2.0"></edge>
+      <edge id="61" source="STARLING" target="PEARSALL" weight="3.0"></edge>
+      <edge id="62" source="STARLING" target="TECHNICIAN"></edge>
+      <edge id="63" source="STARLING" target="WAYNE"></edge>
+      <edge id="64" source="STARLING" target="WINE MERCHANT"></edge>
+      <edge id="65" source="STARLING" target="YOUNG AGENT" weight="2.0"></edge>
+      <edge id="66" source="THEATERGOER" target="LECTER"></edge>
+      <edge id="67" source="VOICE" target="PAZZI"></edge>
+      <edge id="68" source="YOUNG AGENT" target="PAZZI"></edge>
+    </edges>
+  </graph>
+</gexf>
