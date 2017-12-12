@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Adele " label="Adele ">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5833333333333334"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6587301587301587"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.999999999999999"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.2"></viz:size>
+        <viz:position x="997.14404" y="-617.7161"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Danny Ocean " label="Danny Ocean ">
+        <attvalues>
+          <attvalue for="degree" value="16"></attvalue>
+          <attvalue for="weighted degree" value="56.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8076923076923077"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8809523809523809"></attvalue>
+          <attvalue for="betweenesscentrality" value="25.03571428571429"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="63.0"></viz:size>
+        <viz:position x="-386.4984" y="777.4898"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="Duke Santos " label="Duke Santos ">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="16.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.65625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="56.285714285714285"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="43.800003"></viz:size>
+        <viz:position x="911.65796" y="-2462.0222"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Jimmy Foster " label="Jimmy Foster ">
+        <attvalues>
+          <attvalue for="degree" value="14"></attvalue>
+          <attvalue for="weighted degree" value="43.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.035714285714285"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="56.6"></viz:size>
+        <viz:position x="-1035.1743" y="203.4947"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="Mrs. Restes " label="Mrs. Restes ">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.2857142857142857"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.2"></viz:size>
+        <viz:position x="-109.422165" y="-1340.0581"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Roger Corneal " label="Roger Corneal ">
+        <attvalues>
+          <attvalue for="degree" value="15"></attvalue>
+          <attvalue for="weighted degree" value="40.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7777777777777778"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8571428571428571"></attvalue>
+          <attvalue for="betweenesscentrality" value="29.035714285714285"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="59.8"></viz:size>
+        <viz:position x="-2194.8262" y="-716.8186"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Tess Ocean " label="Tess Ocean ">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4883720930232558"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5396825396825398"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.2857142857142857"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="21.400002"></viz:size>
+        <viz:position x="2444.471" y="1290.0652"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Tony Bergdorf " label="Tony Bergdorf ">
+        <attvalues>
+          <attvalue for="degree" value="14"></attvalue>
+          <attvalue for="weighted degree" value="44.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.035714285714285"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="56.6"></viz:size>
+        <viz:position x="-1474.7761" y="-257.6434"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Curly Steffans " label="Curly Steffans ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="33.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-2732.6985" y="1171.2162"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Josh Howard " label="Josh Howard ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="34.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-3452.1938" y="669.14935"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Louis Jackson " label="Louis Jackson ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="34.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-3306.5295" y="1675.6357"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Mushy O’Connor " label="Mushy O’Connor ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="34.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-2572.8076" y="2175.6985"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="Peter Rheimer " label="Peter Rheimer ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="31.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-1941.2278" y="1207.7683"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Sam Harmon " label="Sam Harmon ">
+        <attvalues>
+          <attvalue for="degree" value="16"></attvalue>
+          <attvalue for="weighted degree" value="56.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8076923076923077"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8809523809523809"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="63.0"></viz:size>
+        <viz:position x="-498.9606" y="1642.8993"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="Spyros Acebos " label="Spyros Acebos ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="38.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-2826.0278" y="178.80103"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="Vince Massler " label="Vince Massler ">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="35.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6176470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7380952380952381"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-1779.0157" y="2147.6816"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="Jack Strager " label="Jack Strager ">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4117647058823529"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4603174603174603"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.2"></viz:size>
+        <viz:position x="1505.3662" y="-6499.7017"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Mr. Kelly the mortician " label="Mr. Kelly the mortician ">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40384615384615385"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43650793650793646"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="4609.525" y="-4288.019"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Sheriff Wimmer " label="Sheriff Wimmer ">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4117647058823529"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4603174603174603"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.2"></viz:size>
+        <viz:position x="2930.4573" y="-5997.7354"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="Mrs. Bergdorf " label="Mrs. Bergdorf ">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44680851063829785"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4761904761904764"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5788.399" y="-3236.3438"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Adele " target="Danny Ocean " weight="2.0"></edge>
+      <edge id="1" source="Adele " target="Duke Santos "></edge>
+      <edge id="2" source="Adele " target="Jimmy Foster "></edge>
+      <edge id="3" source="Adele " target="Mrs. Restes "></edge>
+      <edge id="4" source="Adele " target="Roger Corneal "></edge>
+      <edge id="5" source="Adele " target="Tess Ocean "></edge>
+      <edge id="6" source="Adele " target="Tony Bergdorf "></edge>
+      <edge id="7" source="Curly Steffans " target="Danny Ocean " weight="2.0"></edge>
+      <edge id="8" source="Curly Steffans " target="Jimmy Foster " weight="2.0"></edge>
+      <edge id="9" source="Curly Steffans " target="Josh Howard " weight="3.0"></edge>
+      <edge id="10" source="Curly Steffans " target="Louis Jackson " weight="3.0"></edge>
+      <edge id="11" source="Curly Steffans " target="Mushy O’Connor " weight="3.0"></edge>
+      <edge id="12" source="Curly Steffans " target="Peter Rheimer " weight="3.0"></edge>
+      <edge id="13" source="Curly Steffans " target="Roger Corneal " weight="4.0"></edge>
+      <edge id="14" source="Curly Steffans " target="Sam Harmon " weight="4.0"></edge>
+      <edge id="15" source="Curly Steffans " target="Spyros Acebos " weight="3.0"></edge>
+      <edge id="16" source="Curly Steffans " target="Tony Bergdorf " weight="3.0"></edge>
+      <edge id="17" source="Curly Steffans " target="Vince Massler " weight="3.0"></edge>
+      <edge id="18" source="Danny Ocean " target="Duke Santos " weight="2.0"></edge>
+      <edge id="20" source="Danny Ocean " target="Jimmy Foster " weight="8.0"></edge>
+      <edge id="21" source="Danny Ocean " target="Josh Howard " weight="3.0"></edge>
+      <edge id="22" source="Danny Ocean " target="Louis Jackson " weight="3.0"></edge>
+      <edge id="23" source="Danny Ocean " target="Mrs. Restes "></edge>
+      <edge id="24" source="Danny Ocean " target="Mushy O’Connor " weight="3.0"></edge>
+      <edge id="25" source="Danny Ocean " target="Peter Rheimer " weight="2.0"></edge>
+      <edge id="26" source="Danny Ocean " target="Roger Corneal " weight="2.0"></edge>
+      <edge id="27" source="Danny Ocean " target="Sam Harmon " weight="11.0"></edge>
+      <edge id="28" source="Danny Ocean " target="Spyros Acebos " weight="5.0"></edge>
+      <edge id="29" source="Danny Ocean " target="Tess Ocean "></edge>
+      <edge id="30" source="Danny Ocean " target="Tony Bergdorf " weight="5.0"></edge>
+      <edge id="31" source="Danny Ocean " target="Vince Massler " weight="5.0"></edge>
+      <edge id="32" source="Duke Santos " target="Jack Strager "></edge>
+      <edge id="33" source="Duke Santos " target="Jimmy Foster " weight="2.0"></edge>
+      <edge id="34" source="Duke Santos " target="Mr. Kelly the mortician "></edge>
+      <edge id="35" source="Duke Santos " target="Mrs. Restes " weight="4.0"></edge>
+      <edge id="36" source="Duke Santos " target="Roger Corneal "></edge>
+      <edge id="37" source="Duke Santos " target="Sam Harmon " weight="2.0"></edge>
+      <edge id="38" source="Duke Santos " target="Sheriff Wimmer "></edge>
+      <edge id="39" source="Duke Santos " target="Tony Bergdorf "></edge>
+      <edge id="40" source="Jack Strager " target="Sheriff Wimmer "></edge>
+      <edge id="41" source="Jimmy Foster " target="Josh Howard " weight="2.0"></edge>
+      <edge id="42" source="Jimmy Foster " target="Louis Jackson " weight="3.0"></edge>
+      <edge id="43" source="Jimmy Foster " target="Mrs. Restes " weight="3.0"></edge>
+      <edge id="44" source="Jimmy Foster " target="Mushy O’Connor " weight="3.0"></edge>
+      <edge id="45" source="Jimmy Foster " target="Peter Rheimer " weight="2.0"></edge>
+      <edge id="46" source="Jimmy Foster " target="Roger Corneal " weight="2.0"></edge>
+      <edge id="47" source="Jimmy Foster " target="Sam Harmon " weight="6.0"></edge>
+      <edge id="48" source="Jimmy Foster " target="Spyros Acebos " weight="4.0"></edge>
+      <edge id="49" source="Jimmy Foster " target="Tony Bergdorf " weight="3.0"></edge>
+      <edge id="50" source="Jimmy Foster " target="Vince Massler " weight="2.0"></edge>
+      <edge id="52" source="Josh Howard " target="Louis Jackson " weight="3.0"></edge>
+      <edge id="53" source="Josh Howard " target="Mushy O’Connor " weight="2.0"></edge>
+      <edge id="54" source="Josh Howard " target="Peter Rheimer " weight="4.0"></edge>
+      <edge id="55" source="Josh Howard " target="Roger Corneal " weight="4.0"></edge>
+      <edge id="56" source="Josh Howard " target="Sam Harmon " weight="2.0"></edge>
+      <edge id="57" source="Josh Howard " target="Spyros Acebos " weight="2.0"></edge>
+      <edge id="58" source="Josh Howard " target="Tony Bergdorf " weight="4.0"></edge>
+      <edge id="59" source="Josh Howard " target="Vince Massler " weight="5.0"></edge>
+      <edge id="60" source="Louis Jackson " target="Mushy O’Connor " weight="2.0"></edge>
+      <edge id="61" source="Louis Jackson " target="Peter Rheimer " weight="5.0"></edge>
+      <edge id="62" source="Louis Jackson " target="Roger Corneal " weight="3.0"></edge>
+      <edge id="63" source="Louis Jackson " target="Sam Harmon " weight="3.0"></edge>
+      <edge id="64" source="Louis Jackson " target="Spyros Acebos " weight="2.0"></edge>
+      <edge id="65" source="Louis Jackson " target="Tony Bergdorf " weight="4.0"></edge>
+      <edge id="66" source="Louis Jackson " target="Vince Massler " weight="3.0"></edge>
+      <edge id="67" source="Mrs. Bergdorf " target="Roger Corneal "></edge>
+      <edge id="68" source="Mrs. Restes " target="Roger Corneal "></edge>
+      <edge id="69" source="Mrs. Restes " target="Sam Harmon "></edge>
+      <edge id="70" source="Mrs. Restes " target="Tony Bergdorf "></edge>
+      <edge id="72" source="Mushy O’Connor " target="Peter Rheimer " weight="2.0"></edge>
+      <edge id="73" source="Mushy O’Connor " target="Roger Corneal " weight="3.0"></edge>
+      <edge id="74" source="Mushy O’Connor " target="Sam Harmon " weight="5.0"></edge>
+      <edge id="75" source="Mushy O’Connor " target="Spyros Acebos " weight="7.0"></edge>
+      <edge id="76" source="Mushy O’Connor " target="Tony Bergdorf " weight="2.0"></edge>
+      <edge id="77" source="Mushy O’Connor " target="Vince Massler " weight="2.0"></edge>
+      <edge id="78" source="Peter Rheimer " target="Roger Corneal " weight="3.0"></edge>
+      <edge id="79" source="Peter Rheimer " target="Sam Harmon " weight="2.0"></edge>
+      <edge id="80" source="Peter Rheimer " target="Spyros Acebos " weight="2.0"></edge>
+      <edge id="81" source="Peter Rheimer " target="Tony Bergdorf " weight="3.0"></edge>
+      <edge id="82" source="Peter Rheimer " target="Vince Massler " weight="3.0"></edge>
+      <edge id="83" source="Roger Corneal " target="Sam Harmon " weight="3.0"></edge>
+      <edge id="84" source="Roger Corneal " target="Spyros Acebos " weight="3.0"></edge>
+      <edge id="85" source="Roger Corneal " target="Tony Bergdorf " weight="6.0"></edge>
+      <edge id="86" source="Roger Corneal " target="Vince Massler " weight="3.0"></edge>
+      <edge id="87" source="Sam Harmon " target="Spyros Acebos " weight="6.0"></edge>
+      <edge id="88" source="Sam Harmon " target="Tess Ocean "></edge>
+      <edge id="89" source="Sam Harmon " target="Tony Bergdorf " weight="5.0"></edge>
+      <edge id="90" source="Sam Harmon " target="Vince Massler " weight="3.0"></edge>
+      <edge id="91" source="Spyros Acebos " target="Tony Bergdorf " weight="2.0"></edge>
+      <edge id="92" source="Spyros Acebos " target="Vince Massler " weight="2.0"></edge>
+      <edge id="93" source="Tony Bergdorf " target="Vince Massler " weight="4.0"></edge>
+    </edges>
+  </graph>
+</gexf>

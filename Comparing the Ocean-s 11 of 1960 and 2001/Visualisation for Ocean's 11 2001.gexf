@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Barry" label="Barry">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6296296296296297"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="24.6"></viz:size>
+        <viz:position x="847.3289" y="-644.4143"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Bartender" label="Bartender">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6296296296296297"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="24.6"></viz:size>
+        <viz:position x="-735.6554" y="-268.61203"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Danny" label="Danny">
+        <attvalues>
+          <attvalue for="degree" value="17"></attvalue>
+          <attvalue for="weighted degree" value="62.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9473684210526315"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9722222222222222"></attvalue>
+          <attvalue for="betweenesscentrality" value="38.800000000000004"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="63.0"></viz:size>
+        <viz:position x="506.96555" y="711.2077"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Josh" label="Josh">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6296296296296297"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="24.6"></viz:size>
+        <viz:position x="-235.23448" y="-520.55646"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Rusty" label="Rusty">
+        <attvalues>
+          <attvalue for="degree" value="17"></attvalue>
+          <attvalue for="weighted degree" value="68.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9473684210526315"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9722222222222222"></attvalue>
+          <attvalue for="betweenesscentrality" value="38.800000000000004"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="63.0"></viz:size>
+        <viz:position x="-593.248" y="-142.75386"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Seth" label="Seth">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6296296296296297"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="24.6"></viz:size>
+        <viz:position x="-117.73608" y="657.88513"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Basher" label="Basher">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="22.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.4047619047619047"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="37.4"></viz:size>
+        <viz:position x="560.6374" y="-781.2334"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Frank" label="Frank">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6428571428571429"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7222222222222222"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.285714285714285"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="31.0"></viz:size>
+        <viz:position x="189.65862" y="181.32402"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Linus" label="Linus">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="44.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.72"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8055555555555556"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.8"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="43.800003"></viz:size>
+        <viz:position x="-964.14044" y="388.17792"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Livingston" label="Livingston">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="28.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.1142857142857143"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="37.4"></viz:size>
+        <viz:position x="38.090775" y="-658.1328"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Saul" label="Saul">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="29.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6923076923076923"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7777777777777778"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.5666666666666664"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="40.600002"></viz:size>
+        <viz:position x="-269.9643" y="-776.95935"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Turk" label="Turk">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="25.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7685185185185186"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3285714285714285"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="40.600002"></viz:size>
+        <viz:position x="914.34106" y="235.77374"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Virgil" label="Virgil">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="19.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7685185185185186"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3285714285714285"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="40.600002"></viz:size>
+        <viz:position x="-336.63113" y="981.9728"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Yen" label="Yen">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5806451612903226"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6574074074074074"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="27.800001"></viz:size>
+        <viz:position x="-462.67648" y="-414.42422"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Benedict" label="Benedict">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="20.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6428571428571429"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7222222222222222"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.571428571428571"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="34.2"></viz:size>
+        <viz:position x="626.6229" y="985.9679"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Tess" label="Tess">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5294117647058824"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5740740740740741"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.2"></viz:size>
+        <viz:position x="-161.62051" y="277.8425"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Tishkoff" label="Tishkoff">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6851851851851852"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="31.0"></viz:size>
+        <viz:position x="-515.94196" y="637.5681"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Topher" label="Topher">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5142857142857142"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="209.71713" y="-920.9085"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Barry" target="Bartender" label="0"></edge>
+      <edge id="1" source="Barry" target="Danny" label="1"></edge>
+      <edge id="2" source="Barry" target="Josh" label="2"></edge>
+      <edge id="3" source="Barry" target="Rusty" label="3"></edge>
+      <edge id="4" source="Barry" target="Seth" label="4"></edge>
+      <edge id="5" source="Bartender" target="Danny" label="5"></edge>
+      <edge id="6" source="Bartender" target="Josh" label="6"></edge>
+      <edge id="7" source="Bartender" target="Rusty" label="7"></edge>
+      <edge id="8" source="Bartender" target="Seth" label="8"></edge>
+      <edge id="9" source="Basher" target="Danny" label="9" weight="4.0"></edge>
+      <edge id="10" source="Basher" target="Frank" label="10"></edge>
+      <edge id="11" source="Basher" target="Linus" label="11" weight="3.0"></edge>
+      <edge id="12" source="Basher" target="Livingston" label="12" weight="4.0"></edge>
+      <edge id="13" source="Basher" target="Rusty" label="13" weight="5.0"></edge>
+      <edge id="14" source="Basher" target="Saul" label="14" weight="2.0"></edge>
+      <edge id="15" source="Basher" target="Turk" label="15"></edge>
+      <edge id="16" source="Basher" target="Virgil" label="16"></edge>
+      <edge id="17" source="Basher" target="Yen" label="17"></edge>
+      <edge id="18" source="Benedict" target="Danny" label="18"></edge>
+      <edge id="19" source="Benedict" target="Frank" label="19"></edge>
+      <edge id="20" source="Benedict" target="Linus" label="20" weight="4.0"></edge>
+      <edge id="21" source="Benedict" target="Rusty" label="21" weight="3.0"></edge>
+      <edge id="22" source="Benedict" target="Saul" label="22" weight="4.0"></edge>
+      <edge id="23" source="Benedict" target="Tess" label="23" weight="5.0"></edge>
+      <edge id="24" source="Benedict" target="Turk" label="24"></edge>
+      <edge id="25" source="Benedict" target="Virgil" label="25"></edge>
+      <edge id="26" source="Danny" target="Frank" label="26"></edge>
+      <edge id="27" source="Danny" target="Josh" label="27"></edge>
+      <edge id="28" source="Danny" target="Linus" label="28" weight="11.0"></edge>
+      <edge id="29" source="Danny" target="Livingston" label="29" weight="3.0"></edge>
+      <edge id="30" source="Danny" target="Rusty" label="30" weight="19.0"></edge>
+      <edge id="31" source="Danny" target="Saul" label="31" weight="4.0"></edge>
+      <edge id="32" source="Danny" target="Seth" label="32"></edge>
+      <edge id="33" source="Danny" target="Tess" label="33" weight="5.0"></edge>
+      <edge id="34" source="Danny" target="Tishkoff" label="34" weight="3.0"></edge>
+      <edge id="35" source="Danny" target="Topher" label="35"></edge>
+      <edge id="36" source="Danny" target="Turk" label="36" weight="2.0"></edge>
+      <edge id="37" source="Danny" target="Virgil" label="37"></edge>
+      <edge id="38" source="Danny" target="Yen" label="38" weight="3.0"></edge>
+      <edge id="39" source="Frank" target="Linus" label="39"></edge>
+      <edge id="40" source="Frank" target="Livingston" label="40" weight="2.0"></edge>
+      <edge id="42" source="Frank" target="Rusty" label="42"></edge>
+      <edge id="43" source="Frank" target="Saul" label="43"></edge>
+      <edge id="44" source="Josh" target="Rusty" label="44"></edge>
+      <edge id="45" source="Josh" target="Seth" label="45"></edge>
+      <edge id="46" source="Linus" target="Livingston" label="46" weight="5.0"></edge>
+      <edge id="47" source="Linus" target="Rusty" label="47" weight="9.0"></edge>
+      <edge id="48" source="Linus" target="Saul" label="48" weight="3.0"></edge>
+      <edge id="49" source="Linus" target="Tishkoff" label="49" weight="2.0"></edge>
+      <edge id="50" source="Linus" target="Turk" label="50" weight="2.0"></edge>
+      <edge id="51" source="Linus" target="Virgil" label="51" weight="2.0"></edge>
+      <edge id="52" source="Linus" target="Yen" label="52" weight="2.0"></edge>
+      <edge id="53" source="Livingston" target="Rusty" label="53" weight="7.0"></edge>
+      <edge id="54" source="Livingston" target="Saul" label="54" weight="3.0"></edge>
+      <edge id="55" source="Livingston" target="Tishkoff" label="55"></edge>
+      <edge id="56" source="Livingston" target="Turk" label="56" weight="2.0"></edge>
+      <edge id="57" source="Livingston" target="Virgil" label="57"></edge>
+      <edge id="58" source="Rusty" target="Saul" label="58" weight="5.0"></edge>
+      <edge id="59" source="Rusty" target="Seth" label="59"></edge>
+      <edge id="60" source="Rusty" target="Tess" label="60"></edge>
+      <edge id="61" source="Rusty" target="Tishkoff" label="61" weight="2.0"></edge>
+      <edge id="62" source="Rusty" target="Topher" label="62" weight="2.0"></edge>
+      <edge id="63" source="Rusty" target="Turk" label="63" weight="5.0"></edge>
+      <edge id="64" source="Rusty" target="Virgil" label="64" weight="3.0"></edge>
+      <edge id="65" source="Rusty" target="Yen" label="65" weight="2.0"></edge>
+      <edge id="66" source="Saul" target="Tishkoff" label="66" weight="3.0"></edge>
+      <edge id="67" source="Saul" target="Turk" label="67" weight="3.0"></edge>
+      <edge id="68" source="Saul" target="Virgil" label="68"></edge>
+      <edge id="69" source="Tishkoff" target="Turk" label="69"></edge>
+      <edge id="70" source="Tishkoff" target="Virgil" label="70"></edge>
+      <edge id="71" source="Turk" target="Virgil" label="71" weight="6.0"></edge>
+      <edge id="72" source="Turk" target="Yen" label="72" weight="2.0"></edge>
+      <edge id="73" source="Virgil" target="Yen" label="73" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>
