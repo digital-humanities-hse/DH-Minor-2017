@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="source,type,target,weight" title="Source,Type,Target,Weight" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Emily,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.31757" y="-83.68179"></viz:position>
+      </node>
+      <node id="1">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Joey,5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-451.48648" y="454.83337"></viz:position>
+      </node>
+      <node id="2">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Minister,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.5656" y="316.84845"></viz:position>
+      </node>
+      <node id="3">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Monica,9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-368.61346" y="-24.311005"></viz:position>
+      </node>
+      <node id="4">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Mr. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.13922" y="-254.20277"></viz:position>
+      </node>
+      <node id="5">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Mr. Waltham ,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="429.6906" y="-114.95221"></viz:position>
+      </node>
+      <node id="6">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Mrs. Geller,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-321.9109" y="223.97119"></viz:position>
+      </node>
+      <node id="7">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Mrs. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.646545" y="329.75"></viz:position>
+      </node>
+      <node id="8">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Phoebe,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.35748" y="-442.3707"></viz:position>
+      </node>
+      <node id="9">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Rachel,3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="488.83734" y="159.6319"></viz:position>
+      </node>
+      <node id="10">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Chandler,Undirected,Ross,3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="52.34143" y="16.63684"></viz:position>
+      </node>
+      <node id="11">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Joey,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.50699" y="94.53583"></viz:position>
+      </node>
+      <node id="12">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Minister,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="329.98798" y="-338.97635"></viz:position>
+      </node>
+      <node id="13">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Mr. Geller,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.240784" y="-147.57745"></viz:position>
+      </node>
+      <node id="14">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Mrs. Geller,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="498.0138" y="-231.264"></viz:position>
+      </node>
+      <node id="15">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Mrs. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="364.45142" y="-228.05789"></viz:position>
+      </node>
+      <node id="16">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Phoebe,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="368.22406" y="-357.43378"></viz:position>
+      </node>
+      <node id="17">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Rachel,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.69507" y="241.13867"></viz:position>
+      </node>
+      <node id="18">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Emily,Undirected,Ross,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.4623" y="55.690308"></viz:position>
+      </node>
+      <node id="19">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Gate Agent,Undirected,Rachel,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="56.488464" y="-321.4643"></viz:position>
+      </node>
+      <node id="20">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Gate Agent,Undirected,Ross,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.21045" y="-267.0609"></viz:position>
+      </node>
+      <node id="21">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Minister,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-290.84323" y="-96.3309"></viz:position>
+      </node>
+      <node id="22">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Monica,4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="444.87817" y="-441.1273"></viz:position>
+      </node>
+      <node id="23">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Mr. Geller,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.0761" y="481.2036"></viz:position>
+      </node>
+      <node id="24">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Mr. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="283.42682" y="-346.07474"></viz:position>
+      </node>
+      <node id="25">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Mr. Waltham ,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-216.13647" y="26.091309"></viz:position>
+      </node>
+      <node id="26">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Mrs. Geller,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.67206" y="66.32977"></viz:position>
+      </node>
+      <node id="27">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Mrs. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="256.13898" y="-483.201"></viz:position>
+      </node>
+      <node id="28">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Phoebe,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="345.96204" y="-409.76932"></viz:position>
+      </node>
+      <node id="29">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Rachel,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.89764" y="379.45227"></viz:position>
+      </node>
+      <node id="30">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Joey,Undirected,Ross,3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="386.5829" y="139.33575"></viz:position>
+      </node>
+      <node id="31">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Minister,Undirected,Mrs. Geller,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="374.6662" y="477.81506"></viz:position>
+      </node>
+      <node id="32">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Minister,Undirected,Rachel,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-113.03836" y="180.65375"></viz:position>
+      </node>
+      <node id="33">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Minister,Undirected,Ross,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.5171" y="172.34271"></viz:position>
+      </node>
+      <node id="34">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Monica,Undirected,Mr. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="49.380493" y="-35.688812"></viz:position>
+      </node>
+      <node id="35">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Monica,Undirected,Mr. Waltham ,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-273.23096" y="296.11755"></viz:position>
+      </node>
+      <node id="36">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Monica,Undirected,Mrs. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.52802" y="-326.86487"></viz:position>
+      </node>
+      <node id="37">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Monica,Undirected,Phoebe,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="33.214172" y="236.2962"></viz:position>
+      </node>
+      <node id="38">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Monica,Undirected,Rachel,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-44.016815" y="159.63586"></viz:position>
+      </node>
+      <node id="39">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Monica,Undirected,Ross,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.03433" y="306.768"></viz:position>
+      </node>
+      <node id="40">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Geller,Undirected,Mr. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.64395" y="-361.78278"></viz:position>
+      </node>
+      <node id="41">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Geller,Undirected,Mrs. Geller,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="110.531494" y="251.04431"></viz:position>
+      </node>
+      <node id="42">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Geller,Undirected,Mrs. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="324.78625" y="-443.11157"></viz:position>
+      </node>
+      <node id="43">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Geller,Undirected,Phoebe,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.525726" y="23.968689"></viz:position>
+      </node>
+      <node id="44">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Geller,Undirected,Ross,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-267.61545" y="-114.5535"></viz:position>
+      </node>
+      <node id="45">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Waltham,Undirected,Mrs. Geller,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="86.02753" y="-33.341278"></viz:position>
+      </node>
+      <node id="46">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Waltham,Undirected,Mrs. Waltham,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-450.66696" y="226.04346"></viz:position>
+      </node>
+      <node id="47">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mr. Waltham,Undirected,Ross,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.704407" y="111.15973"></viz:position>
+      </node>
+      <node id="48">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mrs. Geller,Undirected,Rachel,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-295.25464" y="477.24817"></viz:position>
+      </node>
+      <node id="49">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mrs. Geller,Undirected,Ross,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="502.17145" y="-370.3882"></viz:position>
+      </node>
+      <node id="50">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mrs. Waltham,Undirected,Phoebe,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.98187" y="264.15723"></viz:position>
+      </node>
+      <node id="51">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Mrs. Waltham,Undirected,Ross,2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="264.8662" y="377.30103"></viz:position>
+      </node>
+      <node id="52">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Phoebe,Undirected,Rachel,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-471.70935" y="-15.194244"></viz:position>
+      </node>
+      <node id="53">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Phoebe,Undirected,Ross,1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-39.049774" y="69.78717"></viz:position>
+      </node>
+      <node id="54">
+        <attvalues>
+          <attvalue for="source,type,target,weight" value="Rachel,Undirected,Ross,3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.75952" y="117.073364"></viz:position>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>
