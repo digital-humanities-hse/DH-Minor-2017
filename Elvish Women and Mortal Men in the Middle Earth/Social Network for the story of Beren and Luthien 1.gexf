@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Beren" label="Beren">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="38.96261" y="-100.03679"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Luthien" label="Luthien">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="2.6955458E-4" y="-0.0014687937"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Carcharoth" label="Carcharoth">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="536.52234" y="57.281918"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Celegorm" label="Celegorm">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-529.7162" y="-38.111507"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Curufin" label="Curufin">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-388.34552" y="359.4871"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Daeron" label="Daeron">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="298.25723" y="-119.66925"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Dior" label="Dior">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="256.23834" y="-478.98285"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Huan" label="Huan">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-68.54395" y="-316.65616"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Mandos" label="Mandos">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-354.77957" y="-406.93515"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Melian" label="Melian">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-195.31892" y="55.59868"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Morgoth" label="Morgoth">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-35.48428" y="525.0408"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Sauron" label="Sauron">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="338.55582" y="403.81848"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+      <node id="Thingol" label="Thingol">
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="56.713894" y="151.01372"></viz:position>
+        <viz:color r="255" g="128" b="154"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Beren" target="Luthien" weight="12.0">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="1" source="Carcharoth" target="Luthien">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="2" source="Celegorm" target="Luthien">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="3" source="Curufin" target="Luthien">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="4" source="Daeron" target="Luthien" weight="2.0">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="5" source="Dior" target="Luthien">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="6" source="Huan" target="Luthien" weight="2.0">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="7" source="Luthien" target="Mandos">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="8" source="Luthien" target="Melian" weight="4.0">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="9" source="Luthien" target="Morgoth">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="10" source="Luthien" target="Sauron">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+      <edge id="11" source="Luthien" target="Thingol" weight="6.0">
+        <viz:color r="0" g="7" b="56"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

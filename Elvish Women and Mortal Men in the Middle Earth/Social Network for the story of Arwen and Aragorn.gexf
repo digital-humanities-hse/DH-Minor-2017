@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Aragorn" label="Aragorn">
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="34.321575" y="102.65584"></viz:position>
+        <viz:color r="209" g="97" b="255"></viz:color>
+      </node>
+      <node id="Arwen" label="Arwen">
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-11.988837" y="4.0893536"></viz:position>
+        <viz:color r="209" g="97" b="255"></viz:color>
+      </node>
+      <node id="Elrond" label="Elrond">
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-181.22034" y="-120.65668"></viz:position>
+        <viz:color r="209" g="97" b="255"></viz:color>
+      </node>
+      <node id="Faramir" label="Faramir">
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="100.19811" y="-272.6474"></viz:position>
+        <viz:color r="209" g="97" b="255"></viz:color>
+      </node>
+      <node id="Frodo" label="Frodo">
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-208.22412" y="228.41821"></viz:position>
+        <viz:color r="209" g="97" b="255"></viz:color>
+      </node>
+      <node id="Imrahil" label="Imrahil">
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="290.8904" y="49.960995"></viz:position>
+        <viz:color r="209" g="97" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Aragorn" target="Arwen" weight="12.0"></edge>
+      <edge id="1" source="Arwen" target="Elrond" weight="3.0"></edge>
+      <edge id="2" source="Arwen" target="Faramir"></edge>
+      <edge id="3" source="Arwen" target="Frodo"></edge>
+      <edge id="4" source="Arwen" target="Imrahil"></edge>
+    </edges>
+  </graph>
+</gexf>

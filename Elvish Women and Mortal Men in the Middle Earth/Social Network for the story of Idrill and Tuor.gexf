@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Aredhel" label="Aredhel">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="61.8941" y="409.61932"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+      <node id="Idril" label="Idril">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="0.0060951035" y="-0.00921171"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+      <node id="Earendil" label="Earendil">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="377.53726" y="-176.59152"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+      <node id="Luthien" label="Luthien">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-412.98874" y="-56.657154"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+      <node id="Maeglin" label="Maeglin">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-108.7639" y="71.65999"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+      <node id="Tuor" label="Tuor">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="125.08713" y="36.311626"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+      <node id="Turgon" label="Turgon">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-39.312233" y="-259.45444"></viz:position>
+        <viz:color r="255" g="15" b="217"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Aredhel" target="Idril"></edge>
+      <edge id="1" source="Earendil" target="Idril"></edge>
+      <edge id="2" source="Idril" target="Luthien"></edge>
+      <edge id="3" source="Idril" target="Maeglin" weight="6.0"></edge>
+      <edge id="4" source="Idril" target="Tuor" weight="6.0"></edge>
+      <edge id="5" source="Idril" target="Turgon" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>
