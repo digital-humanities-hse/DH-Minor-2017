@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Суммарная мощность" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Азазелло" label="Азазелло">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-281.03705" y="-4.807143"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Воланд" label="Воланд">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="207.0431" y="50.591537"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Гелла" label="Гелла">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-34.61453" y="-257.60565"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Коровьев" label="Коровьев">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.875"></viz:size>
+        <viz:position x="-2.686072E-4" y="-0.00320211"></viz:position>
+        <viz:color r="246" g="143" b="177"></viz:color>
+      </node>
+      <node id="Кот Бегемот" label="Кот Бегемот">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.875"></viz:size>
+        <viz:position x="-19.59493" y="190.66216"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Маргарита" label="Маргарита">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-208.52759" y="-178.34091"></viz:position>
+        <viz:color r="160" g="170" b="166"></viz:color>
+      </node>
+      <node id="Мастер" label="Мастер">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-415.21735" y="-408.6971"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Берлиоз" label="Берлиоз">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="819.6885" y="4.8170056"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Иван Бездомный" label="Иван Бездомный">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="580.4179" y="36.67204"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Жорж Бенгальский" label="Жорж Бенгальский">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.125"></viz:size>
+        <viz:position x="307.8143" y="485.52988"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Лиходеев" label="Лиходеев">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.125"></viz:size>
+        <viz:position x="-72.053085" y="570.21906"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Азазелло" target="Воланд" weight="2.0"></edge>
+      <edge id="1" source="Азазелло" target="Гелла" weight="2.0"></edge>
+      <edge id="2" source="Азазелло" target="Коровьев" weight="2.0"></edge>
+      <edge id="3" source="Азазелло" target="Кот Бегемот" weight="2.0"></edge>
+      <edge id="4" source="Азазелло" target="Маргарита" weight="2.0"></edge>
+      <edge id="5" source="Азазелло" target="Мастер"></edge>
+      <edge id="6" source="Берлиоз" target="Воланд"></edge>
+      <edge id="7" source="Берлиоз" target="Иван Бездомный"></edge>
+      <edge id="8" source="Воланд" target="Гелла" weight="2.0"></edge>
+      <edge id="9" source="Воланд" target="Жорж Бенгальский"></edge>
+      <edge id="10" source="Воланд" target="Иван Бездомный" weight="2.0"></edge>
+      <edge id="11" source="Воланд" target="Коровьев" weight="5.0"></edge>
+      <edge id="12" source="Воланд" target="Кот Бегемот" weight="5.0"></edge>
+      <edge id="13" source="Воланд" target="Лиходеев"></edge>
+      <edge id="14" source="Воланд" target="Маргарита" weight="2.0"></edge>
+      <edge id="15" source="Воланд" target="Мастер"></edge>
+      <edge id="16" source="Гелла" target="Коровьев" weight="2.0"></edge>
+      <edge id="17" source="Гелла" target="Кот Бегемот" weight="2.0"></edge>
+      <edge id="18" source="Гелла" target="Маргарита" weight="2.0"></edge>
+      <edge id="19" source="Гелла" target="Мастер"></edge>
+      <edge id="20" source="Жорж Бенгальский" target="Коровьев"></edge>
+      <edge id="21" source="Жорж Бенгальский" target="Кот Бегемот"></edge>
+      <edge id="22" source="Иван Бездомный" target="Коровьев"></edge>
+      <edge id="23" source="Иван Бездомный" target="Кот Бегемот"></edge>
+      <edge id="24" source="Коровьев" target="Кот Бегемот" weight="5.0"></edge>
+      <edge id="25" source="Коровьев" target="Лиходеев"></edge>
+      <edge id="26" source="Коровьев" target="Маргарита" weight="2.0"></edge>
+      <edge id="27" source="Коровьев" target="Мастер"></edge>
+      <edge id="28" source="Кот Бегемот" target="Лиходеев"></edge>
+      <edge id="29" source="Кот Бегемот" target="Маргарита" weight="2.0"></edge>
+      <edge id="30" source="Кот Бегемот" target="Мастер"></edge>
+      <edge id="31" source="Маргарита" target="Мастер"></edge>
+    </edges>
+  </graph>
+</gexf>
